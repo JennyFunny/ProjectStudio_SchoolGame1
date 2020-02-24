@@ -1,0 +1,29 @@
+fileFormatVersion: 2
+guid: 186097e17692cd241be052a6b412a6f9
+ScriptedImporter:
+  fileIDToRecycleName:
+    2800000: Atlas_Artist_Village_Tree_Together_1
+    11400000: _TilesetScriptObject
+    11400002: _superAsset
+    11400004: Tile_Artist_Village_Tree_Together_1
+    11400006: Tile_Artist_Village_Tree_Together_2
+    11400008: Tile_Artist_Village_Tree_Together_3
+    11400010: Tile_Artist_Village_Tree_Together_4
+    21300000: Sprite_Artist_Village_Tree_Together_1
+    21300002: Sprite_Artist_Village_Tree_Together_2
+    21300004: Sprite_Artist_Village_Tree_Together_3
+    21300006: Sprite_Artist_Village_Tree_Together_4
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: cc34d0f3dc257a442819830b408c5322, type: 3}
+  errors: []
+  warnings: []
+  missingSortingLayers: []
+  missingLayers: []
+  pixelsPerUnit: 100
+  edgesPerEllipse: 32
+  useSpriteAtlas: 1
+  atlasWidth: 2048
+  atlasHeight: 2048

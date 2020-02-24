@@ -1,0 +1,39 @@
+fileFormatVersion: 2
+guid: b6e57b650d9dde0428203c83f7d72687
+ScriptedImporter:
+  fileIDToRecycleName:
+    100000: _MapPrfab/Route_B
+    100002: _MapPrfab/Route_B/Tile Layer 1
+    100004: _MapPrfab/Route_B/Trees
+    400000: _MapPrfab/Route_B/Transform
+    400002: _MapPrfab/Route_B/Tile Layer 1/Transform
+    400004: _MapPrfab/Route_B/Trees/Transform
+    11400000: _MapPrfab/Route_B/MonoBehaviour-SuperTiled2Unity.SuperMap
+    11400002: _MapPrfab/Route_B/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400004: _MapPrfab/Route_B/Tile Layer 1/MonoBehaviour-SuperTiled2Unity.SuperTileLayer
+    11400006: _MapPrfab/Route_B/Tile Layer 1/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400008: _superAsset
+    11400010: _MapPrfab/Route_B/Trees/MonoBehaviour-SuperTiled2Unity.SuperTileLayer
+    11400012: _MapPrfab/Route_B/Trees/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    100100000: _MapPrfab
+    2569400265252428796: _MapPrfab/Route_B/Grid
+    3664157343022684176: _MapPrfab/Route_B/Tile Layer 1/TilemapRenderer
+    3664157343022684178: _MapPrfab/Route_B/Trees/TilemapRenderer
+    8195094279510102542: _MapPrfab/Route_B/Tile Layer 1/Tilemap
+    8195094279510102544: _MapPrfab/Route_B/Trees/Tilemap
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 1fa25d03934ea624a82bf2fcee6f0873, type: 3}
+  errors: []
+  warnings: []
+  missingSortingLayers: []
+  missingLayers: []
+  pixelsPerUnit: 100
+  edgesPerEllipse: 32
+  tilesAsObjects: 0
+  importSorting: 0
+  isIsometric: 0
+  customImporterClassName: 
+  internalTilesets: []

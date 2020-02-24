@@ -1,0 +1,39 @@
+fileFormatVersion: 2
+guid: ae687edacd7f69e478f520ce5c6f6d08
+ScriptedImporter:
+  fileIDToRecycleName:
+    100000: _MapPrfab/demonight
+    100002: _MapPrfab/demonight/All
+    100004: _MapPrfab/demonight/Grass
+    400000: _MapPrfab/demonight/Transform
+    400002: _MapPrfab/demonight/All/Transform
+    400004: _MapPrfab/demonight/Grass/Transform
+    11400000: _MapPrfab/demonight/MonoBehaviour-SuperTiled2Unity.SuperMap
+    11400002: _MapPrfab/demonight/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400004: _MapPrfab/demonight/All/MonoBehaviour-SuperTiled2Unity.SuperTileLayer
+    11400006: _MapPrfab/demonight/All/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400008: _MapPrfab/demonight/Grass/MonoBehaviour-SuperTiled2Unity.SuperTileLayer
+    11400010: _MapPrfab/demonight/Grass/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400012: _superAsset
+    100100000: _MapPrfab
+    2569400265252428796: _MapPrfab/demonight/Grid
+    3664157343022684176: _MapPrfab/demonight/All/TilemapRenderer
+    3664157343022684178: _MapPrfab/demonight/Grass/TilemapRenderer
+    8195094279510102542: _MapPrfab/demonight/All/Tilemap
+    8195094279510102544: _MapPrfab/demonight/Grass/Tilemap
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 1fa25d03934ea624a82bf2fcee6f0873, type: 3}
+  errors: []
+  warnings: []
+  missingSortingLayers: []
+  missingLayers: []
+  pixelsPerUnit: 100
+  edgesPerEllipse: 32
+  tilesAsObjects: 0
+  importSorting: 0
+  isIsometric: 0
+  customImporterClassName: 
+  internalTilesets: []

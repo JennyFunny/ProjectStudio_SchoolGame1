@@ -1,0 +1,65 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!78 &1
+TagManager:
+  serializedVersion: 2
+  tags:
+  - Lantaarn
+  - Flare
+  - Collider
+  - Mailbox
+  - Sun
+  - Rain
+  - Snow
+  - Mist
+  - Dialogue Box
+  - Dialogue Text
+  - Dialogue Question
+  - Npc
+  - fade
+  - Dern
+  - Jasper
+  - Gerard
+  layers:
+  - Default
+  - TransparentFX
+  - Ignore Raycast
+  - 
+  - Water
+  - UI
+  - 
+  - 
+  - WorldObjects
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  - 
+  m_SortingLayers:
+  - name: Default
+    uniqueID: 0
+    locked: 0
+  - name: Players
+    uniqueID: 70692453
+    locked: 0
+  - name: World Objects
+    uniqueID: 3598985153
+    locked: 0

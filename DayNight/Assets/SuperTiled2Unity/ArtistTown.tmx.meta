@@ -1,0 +1,1021 @@
+fileFormatVersion: 2
+guid: d7e7ca028e33ef748ad659425dbe5d4d
+ScriptedImporter:
+  fileIDToRecycleName:
+    100000: _MapPrfab/ArtistTown
+    100002: _MapPrfab/ArtistTown/Collision Mask
+    100004: _MapPrfab/ArtistTown/Collision Mask/Object_1
+    100006: _MapPrfab/ArtistTown/Collision Mask/Object_2
+    100008: _MapPrfab/ArtistTown/Collision Mask/Object_3
+    100010: _MapPrfab/ArtistTown/Collision Mask/Object_4
+    100012: _MapPrfab/ArtistTown/Collision Mask/Object_5
+    100014: _MapPrfab/ArtistTown/Collision Mask/Object_7
+    100016: _MapPrfab/ArtistTown/Collision Mask/Object_8
+    100018: _MapPrfab/ArtistTown/Collision Mask/Object_11
+    100020: _MapPrfab/ArtistTown/Copy of Trees
+    100022: _MapPrfab/ArtistTown/Collision Mask/Object_12
+    100024: _MapPrfab/ArtistTown/Collision Mask/Object_13
+    100026: _MapPrfab/ArtistTown/Collision Mask/Object_14
+    100028: _MapPrfab/ArtistTown/Collision Mask/Object_15
+    100030: _MapPrfab/ArtistTown/Collision Mask/Object_21
+    100032: _MapPrfab/ArtistTown/Collision Mask/Object_23
+    100034: _MapPrfab/ArtistTown/Collision Mask/Object_24
+    100036: _MapPrfab/ArtistTown/Collision Mask/Object_26
+    100038: _MapPrfab/ArtistTown/Collision Mask/Object_27
+    100040: _MapPrfab/ArtistTown/Collision Mask/Object_29
+    100042: _MapPrfab/ArtistTown/Collision Mask/Object_31
+    100044: _MapPrfab/ArtistTown/Collision Mask/Object_32
+    100046: _MapPrfab/ArtistTown/Collision Mask/Object_33
+    100048: _MapPrfab/ArtistTown/Collision Mask/Object_34
+    100050: _MapPrfab/ArtistTown/Collision Mask/Object_36
+    100052: _MapPrfab/ArtistTown/Collision Mask/Object_37
+    100054: _MapPrfab/ArtistTown/Collision Mask/Object_51
+    100056: _MapPrfab/ArtistTown/Collision Mask/Object_55
+    100058: _MapPrfab/ArtistTown/Collision Mask/Object_56
+    100060: _MapPrfab/ArtistTown/Collision Mask/Object_57
+    100062: _MapPrfab/ArtistTown/Collision Mask/Object_59
+    100064: _MapPrfab/ArtistTown/Collision Mask/Object_60
+    100066: _MapPrfab/ArtistTown/Collision Mask/Object_65
+    100068: _MapPrfab/ArtistTown/Collision Mask/Object_69
+    100070: _MapPrfab/ArtistTown/Collision Mask/Object_71
+    100072: _MapPrfab/ArtistTown/Collision Mask/Object_72
+    100074: _MapPrfab/ArtistTown/Collision Mask/Object_74
+    100076: _MapPrfab/ArtistTown/Collision Mask/Object_77
+    100078: _MapPrfab/ArtistTown/Collision Mask/Object_78
+    100080: _MapPrfab/ArtistTown/Collision Mask/Object_79
+    100082: _MapPrfab/ArtistTown/Collision Mask/Object_80
+    100084: _MapPrfab/ArtistTown/Collision Mask/Object_81
+    100086: _MapPrfab/ArtistTown/Collision Mask/Object_82
+    100088: _MapPrfab/ArtistTown/Collision Mask/Object_83
+    100090: _MapPrfab/ArtistTown/Collision Mask/Object_84
+    100092: _MapPrfab/ArtistTown/Collision Mask/Object_85
+    100094: _MapPrfab/ArtistTown/Collision Mask/Object_86
+    100096: _MapPrfab/ArtistTown/Collision Mask/Object_87
+    100098: _MapPrfab/ArtistTown/Collision Mask/Object_88
+    100100: _MapPrfab/ArtistTown/Collision Mask/Object_89
+    100102: _MapPrfab/ArtistTown/Collision Mask/Object_90
+    100104: _MapPrfab/ArtistTown/Collision Mask/Object_91
+    100106: _MapPrfab/ArtistTown/Collision Mask/Object_93
+    100118: _MapPrfab/ArtistTown/Enviroment
+    100120: _MapPrfab/ArtistTown/Grass
+    100122: _MapPrfab/ArtistTown/NightLantaarn
+    100124: _MapPrfab/ArtistTown/NonCollision
+    100126: _MapPrfab/ArtistTown/Trees
+    400000: _MapPrfab/ArtistTown/Transform
+    400002: _MapPrfab/ArtistTown/Collision Mask/Transform
+    400004: _MapPrfab/ArtistTown/Collision Mask/Object_1/Transform
+    400006: _MapPrfab/ArtistTown/Collision Mask/Object_2/Transform
+    400008: _MapPrfab/ArtistTown/Collision Mask/Object_3/Transform
+    400010: _MapPrfab/ArtistTown/Collision Mask/Object_4/Transform
+    400012: _MapPrfab/ArtistTown/Collision Mask/Object_5/Transform
+    400014: _MapPrfab/ArtistTown/Collision Mask/Object_7/Transform
+    400016: _MapPrfab/ArtistTown/Collision Mask/Object_8/Transform
+    400018: _MapPrfab/ArtistTown/Collision Mask/Object_11/Transform
+    400020: _MapPrfab/ArtistTown/Copy of Trees/Transform
+    400022: _MapPrfab/ArtistTown/Collision Mask/Object_12/Transform
+    400024: _MapPrfab/ArtistTown/Collision Mask/Object_13/Transform
+    400026: _MapPrfab/ArtistTown/Collision Mask/Object_14/Transform
+    400028: _MapPrfab/ArtistTown/Collision Mask/Object_15/Transform
+    400030: _MapPrfab/ArtistTown/Collision Mask/Object_21/Transform
+    400032: _MapPrfab/ArtistTown/Collision Mask/Object_23/Transform
+    400034: _MapPrfab/ArtistTown/Collision Mask/Object_24/Transform
+    400036: _MapPrfab/ArtistTown/Collision Mask/Object_26/Transform
+    400038: _MapPrfab/ArtistTown/Collision Mask/Object_27/Transform
+    400040: _MapPrfab/ArtistTown/Collision Mask/Object_29/Transform
+    400042: _MapPrfab/ArtistTown/Collision Mask/Object_31/Transform
+    400044: _MapPrfab/ArtistTown/Collision Mask/Object_32/Transform
+    400046: _MapPrfab/ArtistTown/Collision Mask/Object_33/Transform
+    400048: _MapPrfab/ArtistTown/Collision Mask/Object_34/Transform
+    400050: _MapPrfab/ArtistTown/Collision Mask/Object_36/Transform
+    400052: _MapPrfab/ArtistTown/Collision Mask/Object_37/Transform
+    400054: _MapPrfab/ArtistTown/Collision Mask/Object_51/Transform
+    400056: _MapPrfab/ArtistTown/Collision Mask/Object_55/Transform
+    400058: _MapPrfab/ArtistTown/Collision Mask/Object_56/Transform
+    400060: _MapPrfab/ArtistTown/Collision Mask/Object_57/Transform
+    400062: _MapPrfab/ArtistTown/Collision Mask/Object_59/Transform
+    400064: _MapPrfab/ArtistTown/Collision Mask/Object_60/Transform
+    400066: _MapPrfab/ArtistTown/Collision Mask/Object_65/Transform
+    400068: _MapPrfab/ArtistTown/Collision Mask/Object_69/Transform
+    400070: _MapPrfab/ArtistTown/Collision Mask/Object_71/Transform
+    400072: _MapPrfab/ArtistTown/Collision Mask/Object_72/Transform
+    400074: _MapPrfab/ArtistTown/Collision Mask/Object_74/Transform
+    400076: _MapPrfab/ArtistTown/Collision Mask/Object_77/Transform
+    400078: _MapPrfab/ArtistTown/Collision Mask/Object_78/Transform
+    400080: _MapPrfab/ArtistTown/Collision Mask/Object_79/Transform
+    400082: _MapPrfab/ArtistTown/Collision Mask/Object_80/Transform
+    400084: _MapPrfab/ArtistTown/Collision Mask/Object_81/Transform
+    400086: _MapPrfab/ArtistTown/Collision Mask/Object_82/Transform
+    400088: _MapPrfab/ArtistTown/Collision Mask/Object_83/Transform
+    400090: _MapPrfab/ArtistTown/Collision Mask/Object_84/Transform
+    400092: _MapPrfab/ArtistTown/Collision Mask/Object_85/Transform
+    400094: _MapPrfab/ArtistTown/Collision Mask/Object_86/Transform
+    400096: _MapPrfab/ArtistTown/Collision Mask/Object_87/Transform
+    400098: _MapPrfab/ArtistTown/Collision Mask/Object_88/Transform
+    400100: _MapPrfab/ArtistTown/Collision Mask/Object_89/Transform
+    400102: _MapPrfab/ArtistTown/Collision Mask/Object_90/Transform
+    400104: _MapPrfab/ArtistTown/Collision Mask/Object_91/Transform
+    400106: _MapPrfab/ArtistTown/Collision Mask/Object_93/Transform
+    400118: _MapPrfab/ArtistTown/Enviroment/Transform
+    400120: _MapPrfab/ArtistTown/Grass/Transform
+    400122: _MapPrfab/ArtistTown/NightLantaarn/Transform
+    400124: _MapPrfab/ArtistTown/NonCollision/Transform
+    400126: _MapPrfab/ArtistTown/Trees/Transform
+    2800000: Atlas_Enviroment_1
+    2800002: Atlas_ArtistHouses_1
+    6100000: _MapPrfab/ArtistTown/Collision Mask/Object_1/BoxCollider2D
+    6100002: _MapPrfab/ArtistTown/Collision Mask/Object_2/BoxCollider2D
+    6100004: _MapPrfab/ArtistTown/Collision Mask/Object_3/BoxCollider2D
+    6100006: _MapPrfab/ArtistTown/Collision Mask/Object_4/BoxCollider2D
+    6100008: _MapPrfab/ArtistTown/Collision Mask/Object_5/BoxCollider2D
+    6100010: _MapPrfab/ArtistTown/Collision Mask/Object_7/BoxCollider2D
+    6100012: _MapPrfab/ArtistTown/Collision Mask/Object_8/BoxCollider2D
+    6100014: _MapPrfab/ArtistTown/Collision Mask/Object_11/BoxCollider2D
+    6100016: _MapPrfab/ArtistTown/Collision Mask/Object_12/BoxCollider2D
+    6100018: _MapPrfab/ArtistTown/Collision Mask/Object_13/BoxCollider2D
+    6100020: _MapPrfab/ArtistTown/Collision Mask/Object_14/BoxCollider2D
+    6100022: _MapPrfab/ArtistTown/Collision Mask/Object_15/BoxCollider2D
+    6100024: _MapPrfab/ArtistTown/Collision Mask/Object_21/BoxCollider2D
+    6100026: _MapPrfab/ArtistTown/Collision Mask/Object_23/BoxCollider2D
+    6100028: _MapPrfab/ArtistTown/Collision Mask/Object_24/BoxCollider2D
+    6100030: _MapPrfab/ArtistTown/Collision Mask/Object_26/BoxCollider2D
+    6100032: _MapPrfab/ArtistTown/Collision Mask/Object_27/BoxCollider2D
+    6100034: _MapPrfab/ArtistTown/Collision Mask/Object_29/BoxCollider2D
+    6100036: _MapPrfab/ArtistTown/Collision Mask/Object_31/BoxCollider2D
+    6100038: _MapPrfab/ArtistTown/Collision Mask/Object_32/BoxCollider2D
+    6100040: _MapPrfab/ArtistTown/Collision Mask/Object_33/BoxCollider2D
+    6100042: _MapPrfab/ArtistTown/Collision Mask/Object_34/BoxCollider2D
+    6100044: _MapPrfab/ArtistTown/Collision Mask/Object_36/BoxCollider2D
+    6100046: _MapPrfab/ArtistTown/Collision Mask/Object_37/BoxCollider2D
+    6100048: _MapPrfab/ArtistTown/Collision Mask/Object_51/BoxCollider2D
+    6100050: _MapPrfab/ArtistTown/Collision Mask/Object_55/BoxCollider2D
+    6100052: _MapPrfab/ArtistTown/Collision Mask/Object_56/BoxCollider2D
+    6100054: _MapPrfab/ArtistTown/Collision Mask/Object_57/BoxCollider2D
+    6100056: _MapPrfab/ArtistTown/Collision Mask/Object_59/BoxCollider2D
+    6100058: _MapPrfab/ArtistTown/Collision Mask/Object_60/BoxCollider2D
+    6100060: _MapPrfab/ArtistTown/Collision Mask/Object_65/BoxCollider2D
+    6100062: _MapPrfab/ArtistTown/Collision Mask/Object_69/BoxCollider2D
+    6100064: _MapPrfab/ArtistTown/Collision Mask/Object_71/BoxCollider2D
+    6100066: _MapPrfab/ArtistTown/Collision Mask/Object_72/BoxCollider2D
+    6100068: _MapPrfab/ArtistTown/Collision Mask/Object_74/BoxCollider2D
+    6100070: _MapPrfab/ArtistTown/Collision Mask/Object_77/BoxCollider2D
+    6100072: _MapPrfab/ArtistTown/Collision Mask/Object_78/BoxCollider2D
+    6100074: _MapPrfab/ArtistTown/Collision Mask/Object_79/BoxCollider2D
+    6100076: _MapPrfab/ArtistTown/Collision Mask/Object_80/BoxCollider2D
+    6100078: _MapPrfab/ArtistTown/Collision Mask/Object_81/BoxCollider2D
+    6100080: _MapPrfab/ArtistTown/Collision Mask/Object_82/BoxCollider2D
+    6100082: _MapPrfab/ArtistTown/Collision Mask/Object_83/BoxCollider2D
+    6100084: _MapPrfab/ArtistTown/Collision Mask/Object_84/BoxCollider2D
+    6100086: _MapPrfab/ArtistTown/Collision Mask/Object_85/BoxCollider2D
+    6100088: _MapPrfab/ArtistTown/Collision Mask/Object_86/BoxCollider2D
+    6100090: _MapPrfab/ArtistTown/Collision Mask/Object_87/BoxCollider2D
+    6100092: _MapPrfab/ArtistTown/Collision Mask/Object_88/BoxCollider2D
+    6100094: _MapPrfab/ArtistTown/Collision Mask/Object_89/BoxCollider2D
+    6100096: _MapPrfab/ArtistTown/Collision Mask/Object_90/BoxCollider2D
+    6100098: _MapPrfab/ArtistTown/Collision Mask/Object_91/BoxCollider2D
+    6100100: _MapPrfab/ArtistTown/Collision Mask/Object_93/BoxCollider2D
+    11400000: _MapPrfab/ArtistTown/MonoBehaviour-SuperTiled2Unity.SuperMap
+    11400002: _MapPrfab/ArtistTown/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400004: _TilesetScriptObjectInternal_1
+    11400006: Tile_Enviroment_1
+    11400008: _superAsset
+    11400010: _MapPrfab/ArtistTown/Collision Mask/MonoBehaviour-SuperTiled2Unity.SuperObjectLayer
+    11400012: _MapPrfab/ArtistTown/Collision Mask/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400014: _MapPrfab/ArtistTown/Collision Mask/Object_1/MonoBehaviour-SuperTiled2Unity.SuperObject
+    11400016: _MapPrfab/ArtistTown/Collision Mask/Object_1/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400018: _MapPrfab/ArtistTown/Collision Mask/Object_1/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400020: _MapPrfab/ArtistTown/Collision Mask/Object_2/MonoBehaviour-SuperTiled2Unity.SuperObject
+    11400022: _MapPrfab/ArtistTown/Collision Mask/Object_2/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400024: _MapPrfab/ArtistTown/Collision Mask/Object_2/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400026: _MapPrfab/ArtistTown/Collision Mask/Object_3/MonoBehaviour-SuperTiled2Unity.SuperObject
+    11400028: _MapPrfab/ArtistTown/Collision Mask/Object_3/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400030: _MapPrfab/ArtistTown/Collision Mask/Object_3/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400032: _MapPrfab/ArtistTown/Collision Mask/Object_4/MonoBehaviour-SuperTiled2Unity.SuperObject
+    11400034: _MapPrfab/ArtistTown/Collision Mask/Object_4/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400036: _MapPrfab/ArtistTown/Collision Mask/Object_4/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400038: _MapPrfab/ArtistTown/Collision Mask/Object_5/MonoBehaviour-SuperTiled2Unity.SuperObject
+    11400040: _MapPrfab/ArtistTown/Collision Mask/Object_5/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400042: _MapPrfab/ArtistTown/Collision Mask/Object_5/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400044: _MapPrfab/ArtistTown/Collision Mask/Object_7/MonoBehaviour-SuperTiled2Unity.SuperObject
+    11400046: _MapPrfab/ArtistTown/Collision Mask/Object_7/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400048: _MapPrfab/ArtistTown/Collision Mask/Object_7/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400050: _MapPrfab/ArtistTown/Collision Mask/Object_8/MonoBehaviour-SuperTiled2Unity.SuperObject
+    11400052: _MapPrfab/ArtistTown/Collision Mask/Object_8/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400054: _MapPrfab/ArtistTown/Collision Mask/Object_8/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400056: _MapPrfab/ArtistTown/Copy of Trees/MonoBehaviour-SuperTiled2Unity.SuperTileLayer
+    11400058: _MapPrfab/ArtistTown/Copy of Trees/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400060: Tile_ArtistHouses_1
+    11400062: Tile_ArtistHouses_2
+    11400064: Tile_ArtistHouses_3
+    11400066: Tile_ArtistHouses_4
+    11400068: _MapPrfab/ArtistTown/Collision Mask/Object_11/MonoBehaviour-SuperTiled2Unity.SuperObject
+    11400070: _MapPrfab/ArtistTown/Collision Mask/Object_11/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400072: _MapPrfab/ArtistTown/Collision Mask/Object_11/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400074: _MapPrfab/ArtistTown/Collision Mask/Object_12/MonoBehaviour-SuperTiled2Unity.SuperObject
+    11400076: _MapPrfab/ArtistTown/Collision Mask/Object_12/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400078: _MapPrfab/ArtistTown/Collision Mask/Object_12/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400080: _MapPrfab/ArtistTown/Collision Mask/Object_13/MonoBehaviour-SuperTiled2Unity.SuperObject
+    11400082: _MapPrfab/ArtistTown/Collision Mask/Object_13/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400084: _MapPrfab/ArtistTown/Collision Mask/Object_13/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400086: _MapPrfab/ArtistTown/Collision Mask/Object_14/MonoBehaviour-SuperTiled2Unity.SuperObject
+    11400088: _MapPrfab/ArtistTown/Collision Mask/Object_14/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400090: _MapPrfab/ArtistTown/Collision Mask/Object_14/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400092: _MapPrfab/ArtistTown/Collision Mask/Object_15/MonoBehaviour-SuperTiled2Unity.SuperObject
+    11400094: _MapPrfab/ArtistTown/Collision Mask/Object_15/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400096: _MapPrfab/ArtistTown/Collision Mask/Object_15/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400098: Tile_ArtistHouses_5
+    11400100: Tile_ArtistHouses_6
+    11400102: Tile_ArtistHouses_7
+    11400104: Tile_ArtistHouses_8
+    11400106: Tile_ArtistHouses_9
+    11400108: Tile_ArtistHouses_10
+    11400110: Tile_ArtistHouses_11
+    11400112: Tile_ArtistHouses_12
+    11400114: Tile_ArtistHouses_13
+    11400116: _MapPrfab/ArtistTown/Collision Mask/Object_21/MonoBehaviour-SuperTiled2Unity.SuperObject
+    11400118: _MapPrfab/ArtistTown/Collision Mask/Object_21/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400120: _MapPrfab/ArtistTown/Collision Mask/Object_21/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400122: _MapPrfab/ArtistTown/Collision Mask/Object_23/MonoBehaviour-SuperTiled2Unity.SuperObject
+    11400124: _MapPrfab/ArtistTown/Collision Mask/Object_23/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400126: _MapPrfab/ArtistTown/Collision Mask/Object_23/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400128: _MapPrfab/ArtistTown/Collision Mask/Object_24/MonoBehaviour-SuperTiled2Unity.SuperObject
+    11400130: _MapPrfab/ArtistTown/Collision Mask/Object_24/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400132: _MapPrfab/ArtistTown/Collision Mask/Object_24/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400134: Tile_ArtistHouses_14
+    11400136: Tile_ArtistHouses_15
+    11400138: Tile_ArtistHouses_16
+    11400140: _MapPrfab/ArtistTown/Collision Mask/Object_26/MonoBehaviour-SuperTiled2Unity.SuperObject
+    11400142: _MapPrfab/ArtistTown/Collision Mask/Object_26/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400144: _MapPrfab/ArtistTown/Collision Mask/Object_26/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400146: _MapPrfab/ArtistTown/Collision Mask/Object_27/MonoBehaviour-SuperTiled2Unity.SuperObject
+    11400148: _MapPrfab/ArtistTown/Collision Mask/Object_27/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400150: _MapPrfab/ArtistTown/Collision Mask/Object_27/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400152: Tile_ArtistHouses_17
+    11400154: Tile_ArtistHouses_18
+    11400156: Tile_ArtistHouses_19
+    11400158: _MapPrfab/ArtistTown/Collision Mask/Object_29/MonoBehaviour-SuperTiled2Unity.SuperObject
+    11400160: _MapPrfab/ArtistTown/Collision Mask/Object_29/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400162: _MapPrfab/ArtistTown/Collision Mask/Object_29/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400164: _MapPrfab/ArtistTown/Collision Mask/Object_31/MonoBehaviour-SuperTiled2Unity.SuperObject
+    11400166: _MapPrfab/ArtistTown/Collision Mask/Object_31/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400168: _MapPrfab/ArtistTown/Collision Mask/Object_31/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400170: _MapPrfab/ArtistTown/Collision Mask/Object_32/MonoBehaviour-SuperTiled2Unity.SuperObject
+    11400172: _MapPrfab/ArtistTown/Collision Mask/Object_32/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400174: _MapPrfab/ArtistTown/Collision Mask/Object_32/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400176: _MapPrfab/ArtistTown/Collision Mask/Object_33/MonoBehaviour-SuperTiled2Unity.SuperObject
+    11400178: _MapPrfab/ArtistTown/Collision Mask/Object_33/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400180: _MapPrfab/ArtistTown/Collision Mask/Object_33/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400182: _MapPrfab/ArtistTown/Collision Mask/Object_34/MonoBehaviour-SuperTiled2Unity.SuperObject
+    11400184: _MapPrfab/ArtistTown/Collision Mask/Object_34/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400186: _MapPrfab/ArtistTown/Collision Mask/Object_34/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400188: Tile_ArtistHouses_20
+    11400190: Tile_ArtistHouses_21
+    11400192: Tile_ArtistHouses_22
+    11400194: _MapPrfab/ArtistTown/Collision Mask/Object_36/MonoBehaviour-SuperTiled2Unity.SuperObject
+    11400196: _MapPrfab/ArtistTown/Collision Mask/Object_36/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400198: _MapPrfab/ArtistTown/Collision Mask/Object_36/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400200: _MapPrfab/ArtistTown/Collision Mask/Object_37/MonoBehaviour-SuperTiled2Unity.SuperObject
+    11400202: _MapPrfab/ArtistTown/Collision Mask/Object_37/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400204: _MapPrfab/ArtistTown/Collision Mask/Object_37/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400206: Tile_ArtistHouses_23
+    11400208: Tile_ArtistHouses_24
+    11400210: Tile_ArtistHouses_25
+    11400212: Tile_ArtistHouses_26
+    11400214: Tile_ArtistHouses_27
+    11400216: Tile_ArtistHouses_28
+    11400218: Tile_ArtistHouses_29
+    11400220: Tile_ArtistHouses_30
+    11400222: Tile_ArtistHouses_31
+    11400224: Tile_ArtistHouses_32
+    11400226: Tile_ArtistHouses_33
+    11400228: Tile_ArtistHouses_34
+    11400230: Tile_ArtistHouses_35
+    11400232: Tile_ArtistHouses_36
+    11400234: Tile_ArtistHouses_37
+    11400236: Tile_ArtistHouses_38
+    11400238: Tile_ArtistHouses_39
+    11400240: Tile_ArtistHouses_40
+    11400242: Tile_ArtistHouses_41
+    11400244: Tile_ArtistHouses_42
+    11400246: Tile_ArtistHouses_43
+    11400248: Tile_ArtistHouses_44
+    11400250: Tile_ArtistHouses_45
+    11400252: Tile_ArtistHouses_46
+    11400254: Tile_ArtistHouses_47
+    11400256: Tile_ArtistHouses_48
+    11400258: Tile_ArtistHouses_49
+    11400260: Tile_ArtistHouses_50
+    11400262: Tile_ArtistHouses_51
+    11400264: Tile_ArtistHouses_52
+    11400266: Tile_ArtistHouses_53
+    11400268: Tile_ArtistHouses_54
+    11400270: Tile_ArtistHouses_55
+    11400272: _MapPrfab/ArtistTown/Collision Mask/Object_51/MonoBehaviour-SuperTiled2Unity.SuperObject
+    11400274: _MapPrfab/ArtistTown/Collision Mask/Object_51/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400276: _MapPrfab/ArtistTown/Collision Mask/Object_51/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400278: Tile_ArtistHouses_56
+    11400280: Tile_ArtistHouses_57
+    11400282: Tile_ArtistHouses_58
+    11400284: Tile_ArtistHouses_59
+    11400286: Tile_ArtistHouses_60
+    11400288: Tile_ArtistHouses_61
+    11400290: Tile_ArtistHouses_62
+    11400292: Tile_ArtistHouses_63
+    11400294: Tile_ArtistHouses_64
+    11400296: _MapPrfab/ArtistTown/Collision Mask/Object_55/MonoBehaviour-SuperTiled2Unity.SuperObject
+    11400298: _MapPrfab/ArtistTown/Collision Mask/Object_55/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400300: _MapPrfab/ArtistTown/Collision Mask/Object_55/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400302: _MapPrfab/ArtistTown/Collision Mask/Object_56/MonoBehaviour-SuperTiled2Unity.SuperObject
+    11400304: _MapPrfab/ArtistTown/Collision Mask/Object_56/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400306: _MapPrfab/ArtistTown/Collision Mask/Object_56/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400308: _MapPrfab/ArtistTown/Collision Mask/Object_57/MonoBehaviour-SuperTiled2Unity.SuperObject
+    11400310: _MapPrfab/ArtistTown/Collision Mask/Object_57/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400312: _MapPrfab/ArtistTown/Collision Mask/Object_57/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400314: _MapPrfab/ArtistTown/Collision Mask/Object_59/MonoBehaviour-SuperTiled2Unity.SuperObject
+    11400316: _MapPrfab/ArtistTown/Collision Mask/Object_59/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400318: _MapPrfab/ArtistTown/Collision Mask/Object_59/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400320: _MapPrfab/ArtistTown/Collision Mask/Object_60/MonoBehaviour-SuperTiled2Unity.SuperObject
+    11400322: _MapPrfab/ArtistTown/Collision Mask/Object_60/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400324: _MapPrfab/ArtistTown/Collision Mask/Object_60/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400326: _TilesetScriptObjectInternal_2
+    11400328: _MapPrfab/ArtistTown/Collision Mask/Object_65/MonoBehaviour-SuperTiled2Unity.SuperObject
+    11400330: _MapPrfab/ArtistTown/Collision Mask/Object_65/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400332: _MapPrfab/ArtistTown/Collision Mask/Object_65/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400334: _MapPrfab/ArtistTown/Collision Mask/Object_69/MonoBehaviour-SuperTiled2Unity.SuperObject
+    11400336: _MapPrfab/ArtistTown/Collision Mask/Object_69/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400338: _MapPrfab/ArtistTown/Collision Mask/Object_69/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400340: _MapPrfab/ArtistTown/Collision Mask/Object_71/MonoBehaviour-SuperTiled2Unity.SuperObject
+    11400342: _MapPrfab/ArtistTown/Collision Mask/Object_71/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400344: _MapPrfab/ArtistTown/Collision Mask/Object_71/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400346: _MapPrfab/ArtistTown/Collision Mask/Object_72/MonoBehaviour-SuperTiled2Unity.SuperObject
+    11400348: _MapPrfab/ArtistTown/Collision Mask/Object_72/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400350: _MapPrfab/ArtistTown/Enviroment/MonoBehaviour-SuperTiled2Unity.SuperTileLayer
+    11400352: _MapPrfab/ArtistTown/Enviroment/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400354: _MapPrfab/ArtistTown/Grass/MonoBehaviour-SuperTiled2Unity.SuperTileLayer
+    11400356: _MapPrfab/ArtistTown/Grass/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400358: _MapPrfab/ArtistTown/NightLantaarn/MonoBehaviour-SuperTiled2Unity.SuperTileLayer
+    11400360: _MapPrfab/ArtistTown/NightLantaarn/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400362: _MapPrfab/ArtistTown/NonCollision/MonoBehaviour-SuperTiled2Unity.SuperTileLayer
+    11400364: _MapPrfab/ArtistTown/NonCollision/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400366: _MapPrfab/ArtistTown/Trees/MonoBehaviour-SuperTiled2Unity.SuperTileLayer
+    11400368: _MapPrfab/ArtistTown/Trees/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400370: Tile_Enviroment_2
+    11400372: Tile_Enviroment_3
+    11400374: Tile_Enviroment_4
+    11400376: Tile_Enviroment_5
+    11400378: Tile_Enviroment_6
+    11400380: Tile_Enviroment_7
+    11400382: Tile_Enviroment_8
+    11400384: Tile_Enviroment_9
+    11400386: Tile_Enviroment_10
+    11400388: Tile_Enviroment_11
+    11400390: Tile_Enviroment_12
+    11400392: Tile_Enviroment_13
+    11400394: Tile_Enviroment_14
+    11400396: Tile_Enviroment_15
+    11400398: Tile_Enviroment_16
+    11400400: Tile_Enviroment_17
+    11400402: Tile_Enviroment_18
+    11400404: Tile_Enviroment_19
+    11400406: Tile_Enviroment_20
+    11400408: Tile_Enviroment_21
+    11400410: Tile_Enviroment_22
+    11400412: Tile_Enviroment_23
+    11400414: Tile_Enviroment_24
+    11400416: Tile_Enviroment_25
+    11400418: Tile_Enviroment_26
+    11400420: Tile_Enviroment_27
+    11400422: Tile_Enviroment_28
+    11400424: Tile_Enviroment_29
+    11400426: Tile_Enviroment_30
+    11400428: Tile_Enviroment_31
+    11400430: Tile_Enviroment_32
+    11400432: Tile_Enviroment_33
+    11400434: Tile_Enviroment_34
+    11400436: Tile_Enviroment_35
+    11400438: Tile_Enviroment_36
+    11400440: Tile_Enviroment_37
+    11400442: Tile_Enviroment_38
+    11400444: Tile_Enviroment_39
+    11400446: Tile_Enviroment_40
+    11400448: Tile_Enviroment_41
+    11400450: Tile_Enviroment_42
+    11400452: Tile_Enviroment_43
+    11400454: Tile_Enviroment_44
+    11400456: Tile_Enviroment_45
+    11400458: Tile_Enviroment_46
+    11400460: Tile_Enviroment_47
+    11400462: Tile_Enviroment_48
+    11400464: Tile_Enviroment_49
+    11400466: Tile_Enviroment_50
+    11400468: Tile_Enviroment_51
+    11400470: Tile_Enviroment_52
+    11400472: Tile_Enviroment_53
+    11400474: Tile_Enviroment_54
+    11400476: Tile_Enviroment_55
+    11400478: Tile_Enviroment_56
+    11400480: Tile_Enviroment_57
+    11400482: Tile_Enviroment_58
+    11400484: Tile_Enviroment_59
+    11400486: Tile_Enviroment_60
+    11400488: Tile_Enviroment_61
+    11400490: Tile_Enviroment_62
+    11400492: Tile_Enviroment_63
+    11400494: Tile_Enviroment_64
+    11400496: Tile_Enviroment_65
+    11400498: Tile_Enviroment_66
+    11400500: Tile_Enviroment_67
+    11400502: Tile_Enviroment_68
+    11400504: Tile_Enviroment_69
+    11400506: Tile_Enviroment_70
+    11400508: Tile_Enviroment_71
+    11400510: Tile_Enviroment_72
+    11400512: Tile_Enviroment_73
+    11400514: Tile_Enviroment_74
+    11400516: Tile_Enviroment_75
+    11400518: Tile_Enviroment_76
+    11400520: Tile_Enviroment_77
+    11400522: Tile_Enviroment_78
+    11400524: Tile_Enviroment_79
+    11400526: Tile_Enviroment_80
+    11400528: Tile_Enviroment_81
+    11400530: Tile_Enviroment_82
+    11400532: Tile_Enviroment_83
+    11400534: Tile_Enviroment_84
+    11400536: Tile_Enviroment_85
+    11400538: Tile_Enviroment_86
+    11400540: Tile_Enviroment_87
+    11400542: Tile_Enviroment_88
+    11400544: Tile_Enviroment_89
+    11400546: Tile_Enviroment_90
+    11400548: Tile_Enviroment_91
+    11400550: Tile_Enviroment_92
+    11400552: Tile_Enviroment_93
+    11400554: Tile_Enviroment_94
+    11400556: Tile_Enviroment_95
+    11400558: Tile_Enviroment_96
+    11400560: Tile_Enviroment_97
+    11400562: Tile_Enviroment_98
+    11400564: Tile_Enviroment_99
+    11400566: Tile_Enviroment_100
+    11400568: Tile_Enviroment_101
+    11400570: Tile_Enviroment_102
+    11400572: Tile_Enviroment_103
+    11400574: Tile_Enviroment_104
+    11400576: Tile_Enviroment_105
+    11400578: Tile_Enviroment_106
+    11400580: Tile_Enviroment_107
+    11400582: Tile_Enviroment_108
+    11400584: Tile_Enviroment_109
+    11400586: Tile_Enviroment_110
+    11400588: Tile_Enviroment_111
+    11400590: Tile_Enviroment_112
+    11400592: Tile_Enviroment_113
+    11400594: Tile_Enviroment_114
+    11400596: Tile_Enviroment_115
+    11400598: Tile_Enviroment_116
+    11400600: Tile_Enviroment_117
+    11400602: Tile_Enviroment_118
+    11400604: Tile_Enviroment_119
+    11400606: Tile_Enviroment_120
+    11400608: Tile_Enviroment_121
+    11400610: Tile_Enviroment_122
+    11400612: Tile_Enviroment_123
+    11400614: Tile_Enviroment_124
+    11400616: Tile_Enviroment_125
+    11400618: Tile_Enviroment_126
+    11400620: Tile_Enviroment_127
+    11400622: Tile_Enviroment_128
+    11400624: Tile_Enviroment_129
+    11400626: Tile_Enviroment_130
+    11400628: Tile_Enviroment_131
+    11400630: Tile_Enviroment_132
+    11400632: Tile_Enviroment_133
+    11400634: Tile_Enviroment_134
+    11400636: Tile_Enviroment_135
+    11400638: Tile_Enviroment_136
+    11400640: Tile_Enviroment_137
+    11400642: Tile_Enviroment_138
+    11400644: Tile_Enviroment_139
+    11400646: Tile_Enviroment_140
+    11400648: Tile_Enviroment_141
+    11400650: Tile_Enviroment_142
+    11400652: Tile_Enviroment_143
+    11400654: Tile_Enviroment_144
+    11400656: Tile_Enviroment_145
+    11400658: Tile_Enviroment_146
+    11400660: Tile_Enviroment_147
+    11400662: Tile_Enviroment_148
+    11400664: Tile_Enviroment_149
+    11400666: Tile_Enviroment_150
+    11400668: Tile_Enviroment_151
+    11400670: Tile_Enviroment_152
+    11400672: Tile_Enviroment_153
+    11400674: Tile_Enviroment_154
+    11400676: Tile_Enviroment_155
+    11400678: Tile_Enviroment_156
+    11400680: Tile_Enviroment_157
+    11400682: Tile_Enviroment_158
+    11400684: Tile_Enviroment_159
+    11400686: Tile_Enviroment_160
+    11400688: Tile_Enviroment_161
+    11400690: Tile_Enviroment_162
+    11400692: Tile_Enviroment_163
+    11400694: Tile_Enviroment_164
+    11400696: Tile_Enviroment_165
+    11400698: Tile_Enviroment_166
+    11400700: Tile_Enviroment_167
+    11400702: Tile_Enviroment_168
+    11400704: Tile_Enviroment_169
+    11400706: Tile_Enviroment_170
+    11400708: Tile_Enviroment_171
+    11400710: Tile_Enviroment_172
+    11400712: Tile_Enviroment_173
+    11400714: Tile_Enviroment_174
+    11400716: Tile_Enviroment_175
+    11400718: Tile_Enviroment_176
+    11400720: Tile_Enviroment_177
+    11400722: Tile_Enviroment_178
+    11400724: Tile_Enviroment_179
+    11400726: Tile_Enviroment_180
+    11400728: Tile_Enviroment_181
+    11400730: Tile_Enviroment_182
+    11400732: Tile_Enviroment_183
+    11400734: Tile_Enviroment_184
+    11400736: Tile_Enviroment_185
+    11400738: Tile_Enviroment_186
+    11400740: Tile_Enviroment_187
+    11400742: Tile_Enviroment_188
+    11400744: Tile_Enviroment_189
+    11400746: Tile_Enviroment_190
+    11400748: Tile_Enviroment_191
+    11400750: Tile_Enviroment_192
+    11400752: Tile_Enviroment_193
+    11400754: Tile_Enviroment_194
+    11400756: Tile_Enviroment_195
+    11400758: Tile_Enviroment_196
+    11400760: Tile_Enviroment_197
+    11400762: Tile_Enviroment_198
+    11400764: Tile_Enviroment_199
+    11400766: Tile_Enviroment_200
+    11400768: Tile_Enviroment_201
+    11400770: Tile_Enviroment_202
+    11400772: Tile_Enviroment_203
+    11400774: Tile_Enviroment_204
+    11400776: Tile_Enviroment_205
+    11400778: Tile_Enviroment_206
+    11400780: Tile_Enviroment_207
+    11400782: Tile_Enviroment_208
+    11400784: Tile_Enviroment_209
+    11400786: Tile_Enviroment_210
+    11400788: Tile_Enviroment_211
+    11400790: Tile_Enviroment_212
+    11400792: Tile_Enviroment_213
+    11400794: Tile_Enviroment_214
+    11400796: Tile_Enviroment_215
+    11400798: Tile_Enviroment_216
+    11400800: Tile_Enviroment_217
+    11400802: Tile_Enviroment_218
+    11400804: Tile_Enviroment_219
+    11400806: Tile_Enviroment_220
+    11400808: Tile_Enviroment_221
+    11400810: Tile_Enviroment_222
+    11400812: Tile_Enviroment_223
+    11400814: Tile_Enviroment_224
+    11400816: Tile_Enviroment_225
+    11400818: Tile_Enviroment_226
+    11400820: Tile_Enviroment_227
+    11400822: Tile_Enviroment_228
+    11400824: Tile_Enviroment_229
+    11400826: Tile_Enviroment_230
+    11400828: Tile_Enviroment_231
+    11400830: Tile_Enviroment_232
+    11400832: Tile_Enviroment_233
+    11400834: Tile_Enviroment_234
+    11400836: Tile_Enviroment_235
+    11400838: Tile_Enviroment_236
+    11400840: Tile_Enviroment_237
+    11400842: Tile_Enviroment_238
+    11400844: Tile_Enviroment_239
+    11400846: Tile_Enviroment_240
+    11400848: Tile_Enviroment_241
+    11400850: Tile_Enviroment_242
+    11400852: Tile_Enviroment_243
+    11400854: Tile_Enviroment_244
+    11400856: Tile_Enviroment_245
+    11400858: Tile_Enviroment_246
+    11400860: Tile_Enviroment_247
+    11400862: Tile_Enviroment_248
+    11400864: Tile_Enviroment_249
+    11400866: Tile_Enviroment_250
+    11400868: Tile_Enviroment_251
+    11400870: Tile_Enviroment_252
+    11400872: Tile_Enviroment_253
+    11400874: Tile_Enviroment_254
+    11400876: Tile_Enviroment_255
+    11400878: Tile_Enviroment_256
+    11400880: _MapPrfab/ArtistTown/Collision Mask/Object_72/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400882: _MapPrfab/ArtistTown/Collision Mask/Object_74/MonoBehaviour-SuperTiled2Unity.SuperObject
+    11400884: _MapPrfab/ArtistTown/Collision Mask/Object_74/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400886: _MapPrfab/ArtistTown/Collision Mask/Object_74/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400888: _MapPrfab/ArtistTown/Collision Mask/Object_77/MonoBehaviour-SuperTiled2Unity.SuperObject
+    11400890: _MapPrfab/ArtistTown/Collision Mask/Object_77/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400892: _MapPrfab/ArtistTown/Collision Mask/Object_77/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400894: _MapPrfab/ArtistTown/Collision Mask/Object_78/MonoBehaviour-SuperTiled2Unity.SuperObject
+    11400896: _MapPrfab/ArtistTown/Collision Mask/Object_78/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400898: _MapPrfab/ArtistTown/Collision Mask/Object_78/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400900: _MapPrfab/ArtistTown/Collision Mask/Object_79/MonoBehaviour-SuperTiled2Unity.SuperObject
+    11400902: _MapPrfab/ArtistTown/Collision Mask/Object_79/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400904: _MapPrfab/ArtistTown/Collision Mask/Object_79/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400906: _MapPrfab/ArtistTown/Collision Mask/Object_80/MonoBehaviour-SuperTiled2Unity.SuperObject
+    11400908: _MapPrfab/ArtistTown/Collision Mask/Object_80/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400910: _MapPrfab/ArtistTown/Collision Mask/Object_80/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400912: _MapPrfab/ArtistTown/Collision Mask/Object_81/MonoBehaviour-SuperTiled2Unity.SuperObject
+    11400914: _MapPrfab/ArtistTown/Collision Mask/Object_81/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400916: _MapPrfab/ArtistTown/Collision Mask/Object_81/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400918: _MapPrfab/ArtistTown/Collision Mask/Object_82/MonoBehaviour-SuperTiled2Unity.SuperObject
+    11400920: _MapPrfab/ArtistTown/Collision Mask/Object_82/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400922: _MapPrfab/ArtistTown/Collision Mask/Object_82/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400924: _MapPrfab/ArtistTown/Collision Mask/Object_83/MonoBehaviour-SuperTiled2Unity.SuperObject
+    11400926: _MapPrfab/ArtistTown/Collision Mask/Object_83/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400928: _MapPrfab/ArtistTown/Collision Mask/Object_83/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400930: _MapPrfab/ArtistTown/Collision Mask/Object_84/MonoBehaviour-SuperTiled2Unity.SuperObject
+    11400932: _MapPrfab/ArtistTown/Collision Mask/Object_84/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400934: _MapPrfab/ArtistTown/Collision Mask/Object_84/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400936: _MapPrfab/ArtistTown/Collision Mask/Object_85/MonoBehaviour-SuperTiled2Unity.SuperObject
+    11400938: _MapPrfab/ArtistTown/Collision Mask/Object_85/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400940: _MapPrfab/ArtistTown/Collision Mask/Object_85/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400942: _MapPrfab/ArtistTown/Collision Mask/Object_86/MonoBehaviour-SuperTiled2Unity.SuperObject
+    11400944: _MapPrfab/ArtistTown/Collision Mask/Object_86/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400946: _MapPrfab/ArtistTown/Collision Mask/Object_86/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400948: _MapPrfab/ArtistTown/Collision Mask/Object_87/MonoBehaviour-SuperTiled2Unity.SuperObject
+    11400950: _MapPrfab/ArtistTown/Collision Mask/Object_87/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400952: _MapPrfab/ArtistTown/Collision Mask/Object_87/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400954: _MapPrfab/ArtistTown/Collision Mask/Object_88/MonoBehaviour-SuperTiled2Unity.SuperObject
+    11400956: _MapPrfab/ArtistTown/Collision Mask/Object_88/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400958: _MapPrfab/ArtistTown/Collision Mask/Object_88/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400960: _MapPrfab/ArtistTown/Collision Mask/Object_89/MonoBehaviour-SuperTiled2Unity.SuperObject
+    11400962: _MapPrfab/ArtistTown/Collision Mask/Object_89/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400964: _MapPrfab/ArtistTown/Collision Mask/Object_89/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400966: _MapPrfab/ArtistTown/Collision Mask/Object_90/MonoBehaviour-SuperTiled2Unity.SuperObject
+    11400968: _MapPrfab/ArtistTown/Collision Mask/Object_90/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400970: _MapPrfab/ArtistTown/Collision Mask/Object_90/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400972: _MapPrfab/ArtistTown/Collision Mask/Object_91/MonoBehaviour-SuperTiled2Unity.SuperObject
+    11400974: _MapPrfab/ArtistTown/Collision Mask/Object_91/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400976: _MapPrfab/ArtistTown/Collision Mask/Object_91/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400978: _MapPrfab/ArtistTown/Collision Mask/Object_93/MonoBehaviour-SuperTiled2Unity.SuperObject
+    11400980: _MapPrfab/ArtistTown/Collision Mask/Object_93/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400982: _MapPrfab/ArtistTown/Collision Mask/Object_93/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    21300000: Sprite_Enviroment_1
+    21300002: Sprite_Enviroment_2
+    21300004: Sprite_Enviroment_3
+    21300006: Sprite_Enviroment_4
+    21300008: Sprite_Enviroment_5
+    21300010: Sprite_Enviroment_6
+    21300012: Sprite_Enviroment_7
+    21300014: Sprite_Enviroment_8
+    21300016: Sprite_Enviroment_9
+    21300018: Sprite_Enviroment_10
+    21300020: Sprite_Enviroment_11
+    21300022: Sprite_Enviroment_12
+    21300024: Sprite_Enviroment_13
+    21300026: Sprite_Enviroment_14
+    21300028: Sprite_Enviroment_15
+    21300030: Sprite_Enviroment_16
+    21300032: Sprite_Enviroment_17
+    21300034: Sprite_Enviroment_18
+    21300036: Sprite_Enviroment_19
+    21300038: Sprite_Enviroment_20
+    21300040: Sprite_Enviroment_21
+    21300042: Sprite_Enviroment_22
+    21300044: Sprite_Enviroment_23
+    21300046: Sprite_Enviroment_24
+    21300048: Sprite_Enviroment_25
+    21300050: Sprite_Enviroment_26
+    21300052: Sprite_Enviroment_27
+    21300054: Sprite_Enviroment_28
+    21300056: Sprite_Enviroment_29
+    21300058: Sprite_Enviroment_30
+    21300060: Sprite_Enviroment_31
+    21300062: Sprite_Enviroment_32
+    21300064: Sprite_Enviroment_33
+    21300066: Sprite_Enviroment_34
+    21300068: Sprite_Enviroment_35
+    21300070: Sprite_Enviroment_36
+    21300072: Sprite_Enviroment_37
+    21300074: Sprite_Enviroment_38
+    21300076: Sprite_Enviroment_39
+    21300078: Sprite_Enviroment_40
+    21300080: Sprite_Enviroment_41
+    21300082: Sprite_Enviroment_42
+    21300084: Sprite_Enviroment_43
+    21300086: Sprite_Enviroment_44
+    21300088: Sprite_Enviroment_45
+    21300090: Sprite_Enviroment_46
+    21300092: Sprite_Enviroment_47
+    21300094: Sprite_Enviroment_48
+    21300096: Sprite_Enviroment_49
+    21300098: Sprite_Enviroment_50
+    21300100: Sprite_Enviroment_51
+    21300102: Sprite_Enviroment_52
+    21300104: Sprite_Enviroment_53
+    21300106: Sprite_Enviroment_54
+    21300108: Sprite_Enviroment_55
+    21300110: Sprite_Enviroment_56
+    21300112: Sprite_Enviroment_57
+    21300114: Sprite_Enviroment_58
+    21300116: Sprite_Enviroment_59
+    21300118: Sprite_Enviroment_60
+    21300120: Sprite_Enviroment_61
+    21300122: Sprite_Enviroment_62
+    21300124: Sprite_Enviroment_63
+    21300126: Sprite_Enviroment_64
+    21300128: Sprite_Enviroment_65
+    21300130: Sprite_Enviroment_66
+    21300132: Sprite_Enviroment_67
+    21300134: Sprite_Enviroment_68
+    21300136: Sprite_Enviroment_69
+    21300138: Sprite_Enviroment_70
+    21300140: Sprite_Enviroment_71
+    21300142: Sprite_Enviroment_72
+    21300144: Sprite_Enviroment_73
+    21300146: Sprite_Enviroment_74
+    21300148: Sprite_Enviroment_75
+    21300150: Sprite_Enviroment_76
+    21300152: Sprite_Enviroment_77
+    21300154: Sprite_Enviroment_78
+    21300156: Sprite_Enviroment_79
+    21300158: Sprite_Enviroment_80
+    21300160: Sprite_Enviroment_81
+    21300162: Sprite_Enviroment_82
+    21300164: Sprite_Enviroment_83
+    21300166: Sprite_Enviroment_84
+    21300168: Sprite_Enviroment_85
+    21300170: Sprite_Enviroment_86
+    21300172: Sprite_Enviroment_87
+    21300174: Sprite_Enviroment_88
+    21300176: Sprite_Enviroment_89
+    21300178: Sprite_Enviroment_90
+    21300180: Sprite_Enviroment_91
+    21300182: Sprite_Enviroment_92
+    21300184: Sprite_Enviroment_93
+    21300186: Sprite_Enviroment_94
+    21300188: Sprite_Enviroment_95
+    21300190: Sprite_Enviroment_96
+    21300192: Sprite_Enviroment_97
+    21300194: Sprite_Enviroment_98
+    21300196: Sprite_Enviroment_99
+    21300198: Sprite_Enviroment_100
+    21300200: Sprite_Enviroment_101
+    21300202: Sprite_Enviroment_102
+    21300204: Sprite_Enviroment_103
+    21300206: Sprite_Enviroment_104
+    21300208: Sprite_Enviroment_105
+    21300210: Sprite_Enviroment_106
+    21300212: Sprite_Enviroment_107
+    21300214: Sprite_Enviroment_108
+    21300216: Sprite_Enviroment_109
+    21300218: Sprite_Enviroment_110
+    21300220: Sprite_Enviroment_111
+    21300222: Sprite_Enviroment_112
+    21300224: Sprite_Enviroment_113
+    21300226: Sprite_Enviroment_114
+    21300228: Sprite_Enviroment_115
+    21300230: Sprite_Enviroment_116
+    21300232: Sprite_Enviroment_117
+    21300234: Sprite_Enviroment_118
+    21300236: Sprite_Enviroment_119
+    21300238: Sprite_Enviroment_120
+    21300240: Sprite_Enviroment_121
+    21300242: Sprite_Enviroment_122
+    21300244: Sprite_Enviroment_123
+    21300246: Sprite_Enviroment_124
+    21300248: Sprite_Enviroment_125
+    21300250: Sprite_Enviroment_126
+    21300252: Sprite_Enviroment_127
+    21300254: Sprite_Enviroment_128
+    21300256: Sprite_Enviroment_129
+    21300258: Sprite_Enviroment_130
+    21300260: Sprite_Enviroment_131
+    21300262: Sprite_Enviroment_132
+    21300264: Sprite_Enviroment_133
+    21300266: Sprite_Enviroment_134
+    21300268: Sprite_Enviroment_135
+    21300270: Sprite_Enviroment_136
+    21300272: Sprite_Enviroment_137
+    21300274: Sprite_Enviroment_138
+    21300276: Sprite_Enviroment_139
+    21300278: Sprite_Enviroment_140
+    21300280: Sprite_Enviroment_141
+    21300282: Sprite_Enviroment_142
+    21300284: Sprite_Enviroment_143
+    21300286: Sprite_Enviroment_144
+    21300288: Sprite_Enviroment_145
+    21300290: Sprite_Enviroment_146
+    21300292: Sprite_Enviroment_147
+    21300294: Sprite_Enviroment_148
+    21300296: Sprite_Enviroment_149
+    21300298: Sprite_Enviroment_150
+    21300300: Sprite_Enviroment_151
+    21300302: Sprite_Enviroment_152
+    21300304: Sprite_Enviroment_153
+    21300306: Sprite_Enviroment_154
+    21300308: Sprite_Enviroment_155
+    21300310: Sprite_Enviroment_156
+    21300312: Sprite_Enviroment_157
+    21300314: Sprite_Enviroment_158
+    21300316: Sprite_Enviroment_159
+    21300318: Sprite_Enviroment_160
+    21300320: Sprite_Enviroment_161
+    21300322: Sprite_Enviroment_162
+    21300324: Sprite_Enviroment_163
+    21300326: Sprite_Enviroment_164
+    21300328: Sprite_Enviroment_165
+    21300330: Sprite_Enviroment_166
+    21300332: Sprite_Enviroment_167
+    21300334: Sprite_Enviroment_168
+    21300336: Sprite_Enviroment_169
+    21300338: Sprite_Enviroment_170
+    21300340: Sprite_Enviroment_171
+    21300342: Sprite_Enviroment_172
+    21300344: Sprite_Enviroment_173
+    21300346: Sprite_Enviroment_174
+    21300348: Sprite_Enviroment_175
+    21300350: Sprite_Enviroment_176
+    21300352: Sprite_Enviroment_177
+    21300354: Sprite_Enviroment_178
+    21300356: Sprite_Enviroment_179
+    21300358: Sprite_Enviroment_180
+    21300360: Sprite_Enviroment_181
+    21300362: Sprite_Enviroment_182
+    21300364: Sprite_Enviroment_183
+    21300366: Sprite_Enviroment_184
+    21300368: Sprite_Enviroment_185
+    21300370: Sprite_Enviroment_186
+    21300372: Sprite_Enviroment_187
+    21300374: Sprite_Enviroment_188
+    21300376: Sprite_Enviroment_189
+    21300378: Sprite_Enviroment_190
+    21300380: Sprite_Enviroment_191
+    21300382: Sprite_Enviroment_192
+    21300384: Sprite_Enviroment_193
+    21300386: Sprite_Enviroment_194
+    21300388: Sprite_Enviroment_195
+    21300390: Sprite_Enviroment_196
+    21300392: Sprite_Enviroment_197
+    21300394: Sprite_Enviroment_198
+    21300396: Sprite_Enviroment_199
+    21300398: Sprite_Enviroment_200
+    21300400: Sprite_Enviroment_201
+    21300402: Sprite_Enviroment_202
+    21300404: Sprite_Enviroment_203
+    21300406: Sprite_Enviroment_204
+    21300408: Sprite_Enviroment_205
+    21300410: Sprite_Enviroment_206
+    21300412: Sprite_Enviroment_207
+    21300414: Sprite_Enviroment_208
+    21300416: Sprite_Enviroment_209
+    21300418: Sprite_Enviroment_210
+    21300420: Sprite_Enviroment_211
+    21300422: Sprite_Enviroment_212
+    21300424: Sprite_Enviroment_213
+    21300426: Sprite_Enviroment_214
+    21300428: Sprite_Enviroment_215
+    21300430: Sprite_Enviroment_216
+    21300432: Sprite_Enviroment_217
+    21300434: Sprite_Enviroment_218
+    21300436: Sprite_Enviroment_219
+    21300438: Sprite_Enviroment_220
+    21300440: Sprite_Enviroment_221
+    21300442: Sprite_Enviroment_222
+    21300444: Sprite_Enviroment_223
+    21300446: Sprite_Enviroment_224
+    21300448: Sprite_Enviroment_225
+    21300450: Sprite_Enviroment_226
+    21300452: Sprite_Enviroment_227
+    21300454: Sprite_Enviroment_228
+    21300456: Sprite_Enviroment_229
+    21300458: Sprite_Enviroment_230
+    21300460: Sprite_Enviroment_231
+    21300462: Sprite_Enviroment_232
+    21300464: Sprite_Enviroment_233
+    21300466: Sprite_Enviroment_234
+    21300468: Sprite_Enviroment_235
+    21300470: Sprite_Enviroment_236
+    21300472: Sprite_Enviroment_237
+    21300474: Sprite_Enviroment_238
+    21300476: Sprite_Enviroment_239
+    21300478: Sprite_Enviroment_240
+    21300480: Sprite_Enviroment_241
+    21300482: Sprite_Enviroment_242
+    21300484: Sprite_Enviroment_243
+    21300486: Sprite_Enviroment_244
+    21300488: Sprite_Enviroment_245
+    21300490: Sprite_Enviroment_246
+    21300492: Sprite_Enviroment_247
+    21300494: Sprite_Enviroment_248
+    21300496: Sprite_Enviroment_249
+    21300498: Sprite_Enviroment_250
+    21300500: Sprite_Enviroment_251
+    21300502: Sprite_Enviroment_252
+    21300504: Sprite_Enviroment_253
+    21300506: Sprite_Enviroment_254
+    21300508: Sprite_Enviroment_255
+    21300510: Sprite_Enviroment_256
+    21300512: Sprite_ArtistHouses_1
+    21300514: Sprite_ArtistHouses_2
+    21300516: Sprite_ArtistHouses_3
+    21300518: Sprite_ArtistHouses_4
+    21300520: Sprite_ArtistHouses_5
+    21300522: Sprite_ArtistHouses_6
+    21300524: Sprite_ArtistHouses_7
+    21300526: Sprite_ArtistHouses_8
+    21300528: Sprite_ArtistHouses_9
+    21300530: Sprite_ArtistHouses_10
+    21300532: Sprite_ArtistHouses_11
+    21300534: Sprite_ArtistHouses_12
+    21300536: Sprite_ArtistHouses_13
+    21300538: Sprite_ArtistHouses_14
+    21300540: Sprite_ArtistHouses_15
+    21300542: Sprite_ArtistHouses_16
+    21300544: Sprite_ArtistHouses_17
+    21300546: Sprite_ArtistHouses_18
+    21300548: Sprite_ArtistHouses_19
+    21300550: Sprite_ArtistHouses_20
+    21300552: Sprite_ArtistHouses_21
+    21300554: Sprite_ArtistHouses_22
+    21300556: Sprite_ArtistHouses_23
+    21300558: Sprite_ArtistHouses_24
+    21300560: Sprite_ArtistHouses_25
+    21300562: Sprite_ArtistHouses_26
+    21300564: Sprite_ArtistHouses_27
+    21300566: Sprite_ArtistHouses_28
+    21300568: Sprite_ArtistHouses_29
+    21300570: Sprite_ArtistHouses_30
+    21300572: Sprite_ArtistHouses_31
+    21300574: Sprite_ArtistHouses_32
+    21300576: Sprite_ArtistHouses_33
+    21300578: Sprite_ArtistHouses_34
+    21300580: Sprite_ArtistHouses_35
+    21300582: Sprite_ArtistHouses_36
+    21300584: Sprite_ArtistHouses_37
+    21300586: Sprite_ArtistHouses_38
+    21300588: Sprite_ArtistHouses_39
+    21300590: Sprite_ArtistHouses_40
+    21300592: Sprite_ArtistHouses_41
+    21300594: Sprite_ArtistHouses_42
+    21300596: Sprite_ArtistHouses_43
+    21300598: Sprite_ArtistHouses_44
+    21300600: Sprite_ArtistHouses_45
+    21300602: Sprite_ArtistHouses_46
+    21300604: Sprite_ArtistHouses_47
+    21300606: Sprite_ArtistHouses_48
+    21300608: Sprite_ArtistHouses_49
+    21300610: Sprite_ArtistHouses_50
+    21300612: Sprite_ArtistHouses_51
+    21300614: Sprite_ArtistHouses_52
+    21300616: Sprite_ArtistHouses_53
+    21300618: Sprite_ArtistHouses_54
+    21300620: Sprite_ArtistHouses_55
+    21300622: Sprite_ArtistHouses_56
+    21300624: Sprite_ArtistHouses_57
+    21300626: Sprite_ArtistHouses_58
+    21300628: Sprite_ArtistHouses_59
+    21300630: Sprite_ArtistHouses_60
+    21300632: Sprite_ArtistHouses_61
+    21300634: Sprite_ArtistHouses_62
+    21300636: Sprite_ArtistHouses_63
+    21300638: Sprite_ArtistHouses_64
+    100100000: _MapPrfab
+    2569400265252428796: _MapPrfab/ArtistTown/Grid
+    3664157343022684176: _MapPrfab/ArtistTown/Copy of Trees/TilemapRenderer
+    3664157343022684178: _MapPrfab/ArtistTown/Enviroment/TilemapRenderer
+    3664157343022684180: _MapPrfab/ArtistTown/Grass/TilemapRenderer
+    3664157343022684182: _MapPrfab/ArtistTown/NightLantaarn/TilemapRenderer
+    3664157343022684184: _MapPrfab/ArtistTown/NonCollision/TilemapRenderer
+    3664157343022684186: _MapPrfab/ArtistTown/Trees/TilemapRenderer
+    8195094279510102542: _MapPrfab/ArtistTown/Copy of Trees/Tilemap
+    8195094279510102544: _MapPrfab/ArtistTown/Enviroment/Tilemap
+    8195094279510102546: _MapPrfab/ArtistTown/Grass/Tilemap
+    8195094279510102548: _MapPrfab/ArtistTown/NightLantaarn/Tilemap
+    8195094279510102550: _MapPrfab/ArtistTown/NonCollision/Tilemap
+    8195094279510102552: _MapPrfab/ArtistTown/Trees/Tilemap
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 1fa25d03934ea624a82bf2fcee6f0873, type: 3}
+  errors: []
+  warnings:
+  - Tileset 'ArtistHouses' is an embedded tileset. Exported tilesets are preferred.
+  - Tileset 'Enviroment' is an embedded tileset. Exported tilesets are preferred.
+  missingSortingLayers: []
+  missingLayers: []
+  pixelsPerUnit: 100
+  edgesPerEllipse: 32
+  tilesAsObjects: 0
+  importSorting: 0
+  isIsometric: 0
+  customImporterClassName: 
+  internalTilesets:
+  - {instanceID: 0}
+  - {instanceID: 0}

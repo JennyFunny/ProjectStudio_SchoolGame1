@@ -1,0 +1,914 @@
+fileFormatVersion: 2
+guid: 8ea9362cf27cf724f8002fd0a8e9c3b8
+ScriptedImporter:
+  fileIDToRecycleName:
+    100000: _MapPrfab/artist_house_top_1
+    100002: _MapPrfab/artist_house_top_1/Tile Layer 1
+    400000: _MapPrfab/artist_house_top_1/Transform
+    400002: _MapPrfab/artist_house_top_1/Tile Layer 1/Transform
+    2800000: Atlas_Nieuwe TILESETS_1
+    11400000: _MapPrfab/artist_house_top_1/MonoBehaviour-SuperTiled2Unity.SuperMap
+    11400002: _MapPrfab/artist_house_top_1/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400004: _MapPrfab/artist_house_top_1/Tile Layer 1/MonoBehaviour-SuperTiled2Unity.SuperTileLayer
+    11400006: _MapPrfab/artist_house_top_1/Tile Layer 1/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400008: _superAsset
+    11400010: _TilesetScriptObjectInternal_1
+    11400012: Tile_Nieuwe TILESETS_1
+    11400014: Tile_Nieuwe TILESETS_2
+    11400016: Tile_Nieuwe TILESETS_3
+    11400018: Tile_Nieuwe TILESETS_4
+    11400020: Tile_Nieuwe TILESETS_5
+    11400022: Tile_Nieuwe TILESETS_6
+    11400024: Tile_Nieuwe TILESETS_7
+    11400026: Tile_Nieuwe TILESETS_8
+    11400028: Tile_Nieuwe TILESETS_9
+    11400030: Tile_Nieuwe TILESETS_10
+    11400032: Tile_Nieuwe TILESETS_11
+    11400034: Tile_Nieuwe TILESETS_12
+    11400036: Tile_Nieuwe TILESETS_13
+    11400038: Tile_Nieuwe TILESETS_14
+    11400040: Tile_Nieuwe TILESETS_15
+    11400042: Tile_Nieuwe TILESETS_16
+    11400044: Tile_Nieuwe TILESETS_17
+    11400046: Tile_Nieuwe TILESETS_18
+    11400048: Tile_Nieuwe TILESETS_19
+    11400050: Tile_Nieuwe TILESETS_20
+    11400052: Tile_Nieuwe TILESETS_21
+    11400054: Tile_Nieuwe TILESETS_22
+    11400056: Tile_Nieuwe TILESETS_23
+    11400058: Tile_Nieuwe TILESETS_24
+    11400060: Tile_Nieuwe TILESETS_25
+    11400062: Tile_Nieuwe TILESETS_26
+    11400064: Tile_Nieuwe TILESETS_27
+    11400066: Tile_Nieuwe TILESETS_28
+    11400068: Tile_Nieuwe TILESETS_29
+    11400070: Tile_Nieuwe TILESETS_30
+    11400072: Tile_Nieuwe TILESETS_31
+    11400074: Tile_Nieuwe TILESETS_32
+    11400076: Tile_Nieuwe TILESETS_33
+    11400078: Tile_Nieuwe TILESETS_34
+    11400080: Tile_Nieuwe TILESETS_35
+    11400082: Tile_Nieuwe TILESETS_36
+    11400084: Tile_Nieuwe TILESETS_37
+    11400086: Tile_Nieuwe TILESETS_38
+    11400088: Tile_Nieuwe TILESETS_39
+    11400090: Tile_Nieuwe TILESETS_40
+    11400092: Tile_Nieuwe TILESETS_41
+    11400094: Tile_Nieuwe TILESETS_42
+    11400096: Tile_Nieuwe TILESETS_43
+    11400098: Tile_Nieuwe TILESETS_44
+    11400100: Tile_Nieuwe TILESETS_45
+    11400102: Tile_Nieuwe TILESETS_46
+    11400104: Tile_Nieuwe TILESETS_47
+    11400106: Tile_Nieuwe TILESETS_48
+    11400108: Tile_Nieuwe TILESETS_49
+    11400110: Tile_Nieuwe TILESETS_50
+    11400112: Tile_Nieuwe TILESETS_51
+    11400114: Tile_Nieuwe TILESETS_52
+    11400116: Tile_Nieuwe TILESETS_53
+    11400118: Tile_Nieuwe TILESETS_54
+    11400120: Tile_Nieuwe TILESETS_55
+    11400122: Tile_Nieuwe TILESETS_56
+    11400124: Tile_Nieuwe TILESETS_57
+    11400126: Tile_Nieuwe TILESETS_58
+    11400128: Tile_Nieuwe TILESETS_59
+    11400130: Tile_Nieuwe TILESETS_60
+    11400132: Tile_Nieuwe TILESETS_61
+    11400134: Tile_Nieuwe TILESETS_62
+    11400136: Tile_Nieuwe TILESETS_63
+    11400138: Tile_Nieuwe TILESETS_64
+    11400140: Tile_Nieuwe TILESETS_65
+    11400142: Tile_Nieuwe TILESETS_66
+    11400144: Tile_Nieuwe TILESETS_67
+    11400146: Tile_Nieuwe TILESETS_68
+    11400148: Tile_Nieuwe TILESETS_69
+    11400150: Tile_Nieuwe TILESETS_70
+    11400152: Tile_Nieuwe TILESETS_71
+    11400154: Tile_Nieuwe TILESETS_72
+    11400156: Tile_Nieuwe TILESETS_73
+    11400158: Tile_Nieuwe TILESETS_74
+    11400160: Tile_Nieuwe TILESETS_75
+    11400162: Tile_Nieuwe TILESETS_76
+    11400164: Tile_Nieuwe TILESETS_77
+    11400166: Tile_Nieuwe TILESETS_78
+    11400168: Tile_Nieuwe TILESETS_79
+    11400170: Tile_Nieuwe TILESETS_80
+    11400172: Tile_Nieuwe TILESETS_81
+    11400174: Tile_Nieuwe TILESETS_82
+    11400176: Tile_Nieuwe TILESETS_83
+    11400178: Tile_Nieuwe TILESETS_84
+    11400180: Tile_Nieuwe TILESETS_85
+    11400182: Tile_Nieuwe TILESETS_86
+    11400184: Tile_Nieuwe TILESETS_87
+    11400186: Tile_Nieuwe TILESETS_88
+    11400188: Tile_Nieuwe TILESETS_89
+    11400190: Tile_Nieuwe TILESETS_90
+    11400192: Tile_Nieuwe TILESETS_91
+    11400194: Tile_Nieuwe TILESETS_92
+    11400196: Tile_Nieuwe TILESETS_93
+    11400198: Tile_Nieuwe TILESETS_94
+    11400200: Tile_Nieuwe TILESETS_95
+    11400202: Tile_Nieuwe TILESETS_96
+    11400204: Tile_Nieuwe TILESETS_97
+    11400206: Tile_Nieuwe TILESETS_98
+    11400208: Tile_Nieuwe TILESETS_99
+    11400210: Tile_Nieuwe TILESETS_100
+    11400212: Tile_Nieuwe TILESETS_101
+    11400214: Tile_Nieuwe TILESETS_102
+    11400216: Tile_Nieuwe TILESETS_103
+    11400218: Tile_Nieuwe TILESETS_104
+    11400220: Tile_Nieuwe TILESETS_105
+    11400222: Tile_Nieuwe TILESETS_106
+    11400224: Tile_Nieuwe TILESETS_107
+    11400226: Tile_Nieuwe TILESETS_108
+    11400228: Tile_Nieuwe TILESETS_109
+    11400230: Tile_Nieuwe TILESETS_110
+    11400232: Tile_Nieuwe TILESETS_111
+    11400234: Tile_Nieuwe TILESETS_112
+    11400236: Tile_Nieuwe TILESETS_113
+    11400238: Tile_Nieuwe TILESETS_114
+    11400240: Tile_Nieuwe TILESETS_115
+    11400242: Tile_Nieuwe TILESETS_116
+    11400244: Tile_Nieuwe TILESETS_117
+    11400246: Tile_Nieuwe TILESETS_118
+    11400248: Tile_Nieuwe TILESETS_119
+    11400250: Tile_Nieuwe TILESETS_120
+    11400252: Tile_Nieuwe TILESETS_121
+    11400254: Tile_Nieuwe TILESETS_122
+    11400256: Tile_Nieuwe TILESETS_123
+    11400258: Tile_Nieuwe TILESETS_124
+    11400260: Tile_Nieuwe TILESETS_125
+    11400262: Tile_Nieuwe TILESETS_126
+    11400264: Tile_Nieuwe TILESETS_127
+    11400266: Tile_Nieuwe TILESETS_128
+    11400268: Tile_Nieuwe TILESETS_129
+    11400270: Tile_Nieuwe TILESETS_130
+    11400272: Tile_Nieuwe TILESETS_131
+    11400274: Tile_Nieuwe TILESETS_132
+    11400276: Tile_Nieuwe TILESETS_133
+    11400278: Tile_Nieuwe TILESETS_134
+    11400280: Tile_Nieuwe TILESETS_135
+    11400282: Tile_Nieuwe TILESETS_136
+    11400284: Tile_Nieuwe TILESETS_137
+    11400286: Tile_Nieuwe TILESETS_138
+    11400288: Tile_Nieuwe TILESETS_139
+    11400290: Tile_Nieuwe TILESETS_140
+    11400292: Tile_Nieuwe TILESETS_141
+    11400294: Tile_Nieuwe TILESETS_142
+    11400296: Tile_Nieuwe TILESETS_143
+    11400298: Tile_Nieuwe TILESETS_144
+    11400300: Tile_Nieuwe TILESETS_145
+    11400302: Tile_Nieuwe TILESETS_146
+    11400304: Tile_Nieuwe TILESETS_147
+    11400306: Tile_Nieuwe TILESETS_148
+    11400308: Tile_Nieuwe TILESETS_149
+    11400310: Tile_Nieuwe TILESETS_150
+    11400312: Tile_Nieuwe TILESETS_151
+    11400314: Tile_Nieuwe TILESETS_152
+    11400316: Tile_Nieuwe TILESETS_153
+    11400318: Tile_Nieuwe TILESETS_154
+    11400320: Tile_Nieuwe TILESETS_155
+    11400322: Tile_Nieuwe TILESETS_156
+    11400324: Tile_Nieuwe TILESETS_157
+    11400326: Tile_Nieuwe TILESETS_158
+    11400328: Tile_Nieuwe TILESETS_159
+    11400330: Tile_Nieuwe TILESETS_160
+    11400332: Tile_Nieuwe TILESETS_161
+    11400334: Tile_Nieuwe TILESETS_162
+    11400336: Tile_Nieuwe TILESETS_163
+    11400338: Tile_Nieuwe TILESETS_164
+    11400340: Tile_Nieuwe TILESETS_165
+    11400342: Tile_Nieuwe TILESETS_166
+    11400344: Tile_Nieuwe TILESETS_167
+    11400346: Tile_Nieuwe TILESETS_168
+    11400348: Tile_Nieuwe TILESETS_169
+    11400350: Tile_Nieuwe TILESETS_170
+    11400352: Tile_Nieuwe TILESETS_171
+    11400354: Tile_Nieuwe TILESETS_172
+    11400356: Tile_Nieuwe TILESETS_173
+    11400358: Tile_Nieuwe TILESETS_174
+    11400360: Tile_Nieuwe TILESETS_175
+    11400362: Tile_Nieuwe TILESETS_176
+    11400364: Tile_Nieuwe TILESETS_177
+    11400366: Tile_Nieuwe TILESETS_178
+    11400368: Tile_Nieuwe TILESETS_179
+    11400370: Tile_Nieuwe TILESETS_180
+    11400372: Tile_Nieuwe TILESETS_181
+    11400374: Tile_Nieuwe TILESETS_182
+    11400376: Tile_Nieuwe TILESETS_183
+    11400378: Tile_Nieuwe TILESETS_184
+    11400380: Tile_Nieuwe TILESETS_185
+    11400382: Tile_Nieuwe TILESETS_186
+    11400384: Tile_Nieuwe TILESETS_187
+    11400386: Tile_Nieuwe TILESETS_188
+    11400388: Tile_Nieuwe TILESETS_189
+    11400390: Tile_Nieuwe TILESETS_190
+    11400392: Tile_Nieuwe TILESETS_191
+    11400394: Tile_Nieuwe TILESETS_192
+    11400396: Tile_Nieuwe TILESETS_193
+    11400398: Tile_Nieuwe TILESETS_194
+    11400400: Tile_Nieuwe TILESETS_195
+    11400402: Tile_Nieuwe TILESETS_196
+    11400404: Tile_Nieuwe TILESETS_197
+    11400406: Tile_Nieuwe TILESETS_198
+    11400408: Tile_Nieuwe TILESETS_199
+    11400410: Tile_Nieuwe TILESETS_200
+    11400412: Tile_Nieuwe TILESETS_201
+    11400414: Tile_Nieuwe TILESETS_202
+    11400416: Tile_Nieuwe TILESETS_203
+    11400418: Tile_Nieuwe TILESETS_204
+    11400420: Tile_Nieuwe TILESETS_205
+    11400422: Tile_Nieuwe TILESETS_206
+    11400424: Tile_Nieuwe TILESETS_207
+    11400426: Tile_Nieuwe TILESETS_208
+    11400428: Tile_Nieuwe TILESETS_209
+    11400430: Tile_Nieuwe TILESETS_210
+    11400432: Tile_Nieuwe TILESETS_211
+    11400434: Tile_Nieuwe TILESETS_212
+    11400436: Tile_Nieuwe TILESETS_213
+    11400438: Tile_Nieuwe TILESETS_214
+    11400440: Tile_Nieuwe TILESETS_215
+    11400442: Tile_Nieuwe TILESETS_216
+    11400444: Tile_Nieuwe TILESETS_217
+    11400446: Tile_Nieuwe TILESETS_218
+    11400448: Tile_Nieuwe TILESETS_219
+    11400450: Tile_Nieuwe TILESETS_220
+    11400452: Tile_Nieuwe TILESETS_221
+    11400454: Tile_Nieuwe TILESETS_222
+    11400456: Tile_Nieuwe TILESETS_223
+    11400458: Tile_Nieuwe TILESETS_224
+    11400460: Tile_Nieuwe TILESETS_225
+    11400462: Tile_Nieuwe TILESETS_226
+    11400464: Tile_Nieuwe TILESETS_227
+    11400466: Tile_Nieuwe TILESETS_228
+    11400468: Tile_Nieuwe TILESETS_229
+    11400470: Tile_Nieuwe TILESETS_230
+    11400472: Tile_Nieuwe TILESETS_231
+    11400474: Tile_Nieuwe TILESETS_232
+    11400476: Tile_Nieuwe TILESETS_233
+    11400478: Tile_Nieuwe TILESETS_234
+    11400480: Tile_Nieuwe TILESETS_235
+    11400482: Tile_Nieuwe TILESETS_236
+    11400484: Tile_Nieuwe TILESETS_237
+    11400486: Tile_Nieuwe TILESETS_238
+    11400488: Tile_Nieuwe TILESETS_239
+    11400490: Tile_Nieuwe TILESETS_240
+    11400492: Tile_Nieuwe TILESETS_241
+    11400494: Tile_Nieuwe TILESETS_242
+    11400496: Tile_Nieuwe TILESETS_243
+    11400498: Tile_Nieuwe TILESETS_244
+    11400500: Tile_Nieuwe TILESETS_245
+    11400502: Tile_Nieuwe TILESETS_246
+    11400504: Tile_Nieuwe TILESETS_247
+    11400506: Tile_Nieuwe TILESETS_248
+    11400508: Tile_Nieuwe TILESETS_249
+    11400510: Tile_Nieuwe TILESETS_250
+    11400512: Tile_Nieuwe TILESETS_251
+    11400514: Tile_Nieuwe TILESETS_252
+    11400516: Tile_Nieuwe TILESETS_253
+    11400518: Tile_Nieuwe TILESETS_254
+    11400520: Tile_Nieuwe TILESETS_255
+    11400522: Tile_Nieuwe TILESETS_256
+    11400524: Tile_Nieuwe TILESETS_257
+    11400526: Tile_Nieuwe TILESETS_258
+    11400528: Tile_Nieuwe TILESETS_259
+    11400530: Tile_Nieuwe TILESETS_260
+    11400532: Tile_Nieuwe TILESETS_261
+    11400534: Tile_Nieuwe TILESETS_262
+    11400536: Tile_Nieuwe TILESETS_263
+    11400538: Tile_Nieuwe TILESETS_264
+    11400540: Tile_Nieuwe TILESETS_265
+    11400542: Tile_Nieuwe TILESETS_266
+    11400544: Tile_Nieuwe TILESETS_267
+    11400546: Tile_Nieuwe TILESETS_268
+    11400548: Tile_Nieuwe TILESETS_269
+    11400550: Tile_Nieuwe TILESETS_270
+    11400552: Tile_Nieuwe TILESETS_271
+    11400554: Tile_Nieuwe TILESETS_272
+    11400556: Tile_Nieuwe TILESETS_273
+    11400558: Tile_Nieuwe TILESETS_274
+    11400560: Tile_Nieuwe TILESETS_275
+    11400562: Tile_Nieuwe TILESETS_276
+    11400564: Tile_Nieuwe TILESETS_277
+    11400566: Tile_Nieuwe TILESETS_278
+    11400568: Tile_Nieuwe TILESETS_279
+    11400570: Tile_Nieuwe TILESETS_280
+    11400572: Tile_Nieuwe TILESETS_281
+    11400574: Tile_Nieuwe TILESETS_282
+    11400576: Tile_Nieuwe TILESETS_283
+    11400578: Tile_Nieuwe TILESETS_284
+    11400580: Tile_Nieuwe TILESETS_285
+    11400582: Tile_Nieuwe TILESETS_286
+    11400584: Tile_Nieuwe TILESETS_287
+    11400586: Tile_Nieuwe TILESETS_288
+    11400588: Tile_Nieuwe TILESETS_289
+    11400590: Tile_Nieuwe TILESETS_290
+    11400592: Tile_Nieuwe TILESETS_291
+    11400594: Tile_Nieuwe TILESETS_292
+    11400596: Tile_Nieuwe TILESETS_293
+    11400598: Tile_Nieuwe TILESETS_294
+    11400600: Tile_Nieuwe TILESETS_295
+    11400602: Tile_Nieuwe TILESETS_296
+    11400604: Tile_Nieuwe TILESETS_297
+    11400606: Tile_Nieuwe TILESETS_298
+    11400608: Tile_Nieuwe TILESETS_299
+    11400610: Tile_Nieuwe TILESETS_300
+    11400612: Tile_Nieuwe TILESETS_301
+    11400614: Tile_Nieuwe TILESETS_302
+    11400616: Tile_Nieuwe TILESETS_303
+    11400618: Tile_Nieuwe TILESETS_304
+    11400620: Tile_Nieuwe TILESETS_305
+    11400622: Tile_Nieuwe TILESETS_306
+    11400624: Tile_Nieuwe TILESETS_307
+    11400626: Tile_Nieuwe TILESETS_308
+    11400628: Tile_Nieuwe TILESETS_309
+    11400630: Tile_Nieuwe TILESETS_310
+    11400632: Tile_Nieuwe TILESETS_311
+    11400634: Tile_Nieuwe TILESETS_312
+    11400636: Tile_Nieuwe TILESETS_313
+    11400638: Tile_Nieuwe TILESETS_314
+    11400640: Tile_Nieuwe TILESETS_315
+    11400642: Tile_Nieuwe TILESETS_316
+    11400644: Tile_Nieuwe TILESETS_317
+    11400646: Tile_Nieuwe TILESETS_318
+    11400648: Tile_Nieuwe TILESETS_319
+    11400650: Tile_Nieuwe TILESETS_320
+    11400652: Tile_Nieuwe TILESETS_321
+    11400654: Tile_Nieuwe TILESETS_322
+    11400656: Tile_Nieuwe TILESETS_323
+    11400658: Tile_Nieuwe TILESETS_324
+    11400660: Tile_Nieuwe TILESETS_325
+    11400662: Tile_Nieuwe TILESETS_326
+    11400664: Tile_Nieuwe TILESETS_327
+    11400666: Tile_Nieuwe TILESETS_328
+    11400668: Tile_Nieuwe TILESETS_329
+    11400670: Tile_Nieuwe TILESETS_330
+    11400672: Tile_Nieuwe TILESETS_331
+    11400674: Tile_Nieuwe TILESETS_332
+    11400676: Tile_Nieuwe TILESETS_333
+    11400678: Tile_Nieuwe TILESETS_334
+    11400680: Tile_Nieuwe TILESETS_335
+    11400682: Tile_Nieuwe TILESETS_336
+    11400684: Tile_Nieuwe TILESETS_337
+    11400686: Tile_Nieuwe TILESETS_338
+    11400688: Tile_Nieuwe TILESETS_339
+    11400690: Tile_Nieuwe TILESETS_340
+    11400692: Tile_Nieuwe TILESETS_341
+    11400694: Tile_Nieuwe TILESETS_342
+    11400696: Tile_Nieuwe TILESETS_343
+    11400698: Tile_Nieuwe TILESETS_344
+    11400700: Tile_Nieuwe TILESETS_345
+    11400702: Tile_Nieuwe TILESETS_346
+    11400704: Tile_Nieuwe TILESETS_347
+    11400706: Tile_Nieuwe TILESETS_348
+    11400708: Tile_Nieuwe TILESETS_349
+    11400710: Tile_Nieuwe TILESETS_350
+    11400712: Tile_Nieuwe TILESETS_351
+    11400714: Tile_Nieuwe TILESETS_352
+    11400716: Tile_Nieuwe TILESETS_353
+    11400718: Tile_Nieuwe TILESETS_354
+    11400720: Tile_Nieuwe TILESETS_355
+    11400722: Tile_Nieuwe TILESETS_356
+    11400724: Tile_Nieuwe TILESETS_357
+    11400726: Tile_Nieuwe TILESETS_358
+    11400728: Tile_Nieuwe TILESETS_359
+    11400730: Tile_Nieuwe TILESETS_360
+    11400732: Tile_Nieuwe TILESETS_361
+    11400734: Tile_Nieuwe TILESETS_362
+    11400736: Tile_Nieuwe TILESETS_363
+    11400738: Tile_Nieuwe TILESETS_364
+    11400740: Tile_Nieuwe TILESETS_365
+    11400742: Tile_Nieuwe TILESETS_366
+    11400744: Tile_Nieuwe TILESETS_367
+    11400746: Tile_Nieuwe TILESETS_368
+    11400748: Tile_Nieuwe TILESETS_369
+    11400750: Tile_Nieuwe TILESETS_370
+    11400752: Tile_Nieuwe TILESETS_371
+    11400754: Tile_Nieuwe TILESETS_372
+    11400756: Tile_Nieuwe TILESETS_373
+    11400758: Tile_Nieuwe TILESETS_374
+    11400760: Tile_Nieuwe TILESETS_375
+    11400762: Tile_Nieuwe TILESETS_376
+    11400764: Tile_Nieuwe TILESETS_377
+    11400766: Tile_Nieuwe TILESETS_378
+    11400768: Tile_Nieuwe TILESETS_379
+    11400770: Tile_Nieuwe TILESETS_380
+    11400772: Tile_Nieuwe TILESETS_381
+    11400774: Tile_Nieuwe TILESETS_382
+    11400776: Tile_Nieuwe TILESETS_383
+    11400778: Tile_Nieuwe TILESETS_384
+    11400780: Tile_Nieuwe TILESETS_385
+    11400782: Tile_Nieuwe TILESETS_386
+    11400784: Tile_Nieuwe TILESETS_387
+    11400786: Tile_Nieuwe TILESETS_388
+    11400788: Tile_Nieuwe TILESETS_389
+    11400790: Tile_Nieuwe TILESETS_390
+    11400792: Tile_Nieuwe TILESETS_391
+    11400794: Tile_Nieuwe TILESETS_392
+    11400796: Tile_Nieuwe TILESETS_393
+    11400798: Tile_Nieuwe TILESETS_394
+    11400800: Tile_Nieuwe TILESETS_395
+    11400802: Tile_Nieuwe TILESETS_396
+    11400804: Tile_Nieuwe TILESETS_397
+    11400806: Tile_Nieuwe TILESETS_398
+    11400808: Tile_Nieuwe TILESETS_399
+    11400810: Tile_Nieuwe TILESETS_400
+    21300000: Sprite_Nieuwe TILESETS_1
+    21300002: Sprite_Nieuwe TILESETS_2
+    21300004: Sprite_Nieuwe TILESETS_3
+    21300006: Sprite_Nieuwe TILESETS_4
+    21300008: Sprite_Nieuwe TILESETS_5
+    21300010: Sprite_Nieuwe TILESETS_6
+    21300012: Sprite_Nieuwe TILESETS_7
+    21300014: Sprite_Nieuwe TILESETS_8
+    21300016: Sprite_Nieuwe TILESETS_9
+    21300018: Sprite_Nieuwe TILESETS_10
+    21300020: Sprite_Nieuwe TILESETS_11
+    21300022: Sprite_Nieuwe TILESETS_12
+    21300024: Sprite_Nieuwe TILESETS_13
+    21300026: Sprite_Nieuwe TILESETS_14
+    21300028: Sprite_Nieuwe TILESETS_15
+    21300030: Sprite_Nieuwe TILESETS_16
+    21300032: Sprite_Nieuwe TILESETS_17
+    21300034: Sprite_Nieuwe TILESETS_18
+    21300036: Sprite_Nieuwe TILESETS_19
+    21300038: Sprite_Nieuwe TILESETS_20
+    21300040: Sprite_Nieuwe TILESETS_21
+    21300042: Sprite_Nieuwe TILESETS_22
+    21300044: Sprite_Nieuwe TILESETS_23
+    21300046: Sprite_Nieuwe TILESETS_24
+    21300048: Sprite_Nieuwe TILESETS_25
+    21300050: Sprite_Nieuwe TILESETS_26
+    21300052: Sprite_Nieuwe TILESETS_27
+    21300054: Sprite_Nieuwe TILESETS_28
+    21300056: Sprite_Nieuwe TILESETS_29
+    21300058: Sprite_Nieuwe TILESETS_30
+    21300060: Sprite_Nieuwe TILESETS_31
+    21300062: Sprite_Nieuwe TILESETS_32
+    21300064: Sprite_Nieuwe TILESETS_33
+    21300066: Sprite_Nieuwe TILESETS_34
+    21300068: Sprite_Nieuwe TILESETS_35
+    21300070: Sprite_Nieuwe TILESETS_36
+    21300072: Sprite_Nieuwe TILESETS_37
+    21300074: Sprite_Nieuwe TILESETS_38
+    21300076: Sprite_Nieuwe TILESETS_39
+    21300078: Sprite_Nieuwe TILESETS_40
+    21300080: Sprite_Nieuwe TILESETS_41
+    21300082: Sprite_Nieuwe TILESETS_42
+    21300084: Sprite_Nieuwe TILESETS_43
+    21300086: Sprite_Nieuwe TILESETS_44
+    21300088: Sprite_Nieuwe TILESETS_45
+    21300090: Sprite_Nieuwe TILESETS_46
+    21300092: Sprite_Nieuwe TILESETS_47
+    21300094: Sprite_Nieuwe TILESETS_48
+    21300096: Sprite_Nieuwe TILESETS_49
+    21300098: Sprite_Nieuwe TILESETS_50
+    21300100: Sprite_Nieuwe TILESETS_51
+    21300102: Sprite_Nieuwe TILESETS_52
+    21300104: Sprite_Nieuwe TILESETS_53
+    21300106: Sprite_Nieuwe TILESETS_54
+    21300108: Sprite_Nieuwe TILESETS_55
+    21300110: Sprite_Nieuwe TILESETS_56
+    21300112: Sprite_Nieuwe TILESETS_57
+    21300114: Sprite_Nieuwe TILESETS_58
+    21300116: Sprite_Nieuwe TILESETS_59
+    21300118: Sprite_Nieuwe TILESETS_60
+    21300120: Sprite_Nieuwe TILESETS_61
+    21300122: Sprite_Nieuwe TILESETS_62
+    21300124: Sprite_Nieuwe TILESETS_63
+    21300126: Sprite_Nieuwe TILESETS_64
+    21300128: Sprite_Nieuwe TILESETS_65
+    21300130: Sprite_Nieuwe TILESETS_66
+    21300132: Sprite_Nieuwe TILESETS_67
+    21300134: Sprite_Nieuwe TILESETS_68
+    21300136: Sprite_Nieuwe TILESETS_69
+    21300138: Sprite_Nieuwe TILESETS_70
+    21300140: Sprite_Nieuwe TILESETS_71
+    21300142: Sprite_Nieuwe TILESETS_72
+    21300144: Sprite_Nieuwe TILESETS_73
+    21300146: Sprite_Nieuwe TILESETS_74
+    21300148: Sprite_Nieuwe TILESETS_75
+    21300150: Sprite_Nieuwe TILESETS_76
+    21300152: Sprite_Nieuwe TILESETS_77
+    21300154: Sprite_Nieuwe TILESETS_78
+    21300156: Sprite_Nieuwe TILESETS_79
+    21300158: Sprite_Nieuwe TILESETS_80
+    21300160: Sprite_Nieuwe TILESETS_81
+    21300162: Sprite_Nieuwe TILESETS_82
+    21300164: Sprite_Nieuwe TILESETS_83
+    21300166: Sprite_Nieuwe TILESETS_84
+    21300168: Sprite_Nieuwe TILESETS_85
+    21300170: Sprite_Nieuwe TILESETS_86
+    21300172: Sprite_Nieuwe TILESETS_87
+    21300174: Sprite_Nieuwe TILESETS_88
+    21300176: Sprite_Nieuwe TILESETS_89
+    21300178: Sprite_Nieuwe TILESETS_90
+    21300180: Sprite_Nieuwe TILESETS_91
+    21300182: Sprite_Nieuwe TILESETS_92
+    21300184: Sprite_Nieuwe TILESETS_93
+    21300186: Sprite_Nieuwe TILESETS_94
+    21300188: Sprite_Nieuwe TILESETS_95
+    21300190: Sprite_Nieuwe TILESETS_96
+    21300192: Sprite_Nieuwe TILESETS_97
+    21300194: Sprite_Nieuwe TILESETS_98
+    21300196: Sprite_Nieuwe TILESETS_99
+    21300198: Sprite_Nieuwe TILESETS_100
+    21300200: Sprite_Nieuwe TILESETS_101
+    21300202: Sprite_Nieuwe TILESETS_102
+    21300204: Sprite_Nieuwe TILESETS_103
+    21300206: Sprite_Nieuwe TILESETS_104
+    21300208: Sprite_Nieuwe TILESETS_105
+    21300210: Sprite_Nieuwe TILESETS_106
+    21300212: Sprite_Nieuwe TILESETS_107
+    21300214: Sprite_Nieuwe TILESETS_108
+    21300216: Sprite_Nieuwe TILESETS_109
+    21300218: Sprite_Nieuwe TILESETS_110
+    21300220: Sprite_Nieuwe TILESETS_111
+    21300222: Sprite_Nieuwe TILESETS_112
+    21300224: Sprite_Nieuwe TILESETS_113
+    21300226: Sprite_Nieuwe TILESETS_114
+    21300228: Sprite_Nieuwe TILESETS_115
+    21300230: Sprite_Nieuwe TILESETS_116
+    21300232: Sprite_Nieuwe TILESETS_117
+    21300234: Sprite_Nieuwe TILESETS_118
+    21300236: Sprite_Nieuwe TILESETS_119
+    21300238: Sprite_Nieuwe TILESETS_120
+    21300240: Sprite_Nieuwe TILESETS_121
+    21300242: Sprite_Nieuwe TILESETS_122
+    21300244: Sprite_Nieuwe TILESETS_123
+    21300246: Sprite_Nieuwe TILESETS_124
+    21300248: Sprite_Nieuwe TILESETS_125
+    21300250: Sprite_Nieuwe TILESETS_126
+    21300252: Sprite_Nieuwe TILESETS_127
+    21300254: Sprite_Nieuwe TILESETS_128
+    21300256: Sprite_Nieuwe TILESETS_129
+    21300258: Sprite_Nieuwe TILESETS_130
+    21300260: Sprite_Nieuwe TILESETS_131
+    21300262: Sprite_Nieuwe TILESETS_132
+    21300264: Sprite_Nieuwe TILESETS_133
+    21300266: Sprite_Nieuwe TILESETS_134
+    21300268: Sprite_Nieuwe TILESETS_135
+    21300270: Sprite_Nieuwe TILESETS_136
+    21300272: Sprite_Nieuwe TILESETS_137
+    21300274: Sprite_Nieuwe TILESETS_138
+    21300276: Sprite_Nieuwe TILESETS_139
+    21300278: Sprite_Nieuwe TILESETS_140
+    21300280: Sprite_Nieuwe TILESETS_141
+    21300282: Sprite_Nieuwe TILESETS_142
+    21300284: Sprite_Nieuwe TILESETS_143
+    21300286: Sprite_Nieuwe TILESETS_144
+    21300288: Sprite_Nieuwe TILESETS_145
+    21300290: Sprite_Nieuwe TILESETS_146
+    21300292: Sprite_Nieuwe TILESETS_147
+    21300294: Sprite_Nieuwe TILESETS_148
+    21300296: Sprite_Nieuwe TILESETS_149
+    21300298: Sprite_Nieuwe TILESETS_150
+    21300300: Sprite_Nieuwe TILESETS_151
+    21300302: Sprite_Nieuwe TILESETS_152
+    21300304: Sprite_Nieuwe TILESETS_153
+    21300306: Sprite_Nieuwe TILESETS_154
+    21300308: Sprite_Nieuwe TILESETS_155
+    21300310: Sprite_Nieuwe TILESETS_156
+    21300312: Sprite_Nieuwe TILESETS_157
+    21300314: Sprite_Nieuwe TILESETS_158
+    21300316: Sprite_Nieuwe TILESETS_159
+    21300318: Sprite_Nieuwe TILESETS_160
+    21300320: Sprite_Nieuwe TILESETS_161
+    21300322: Sprite_Nieuwe TILESETS_162
+    21300324: Sprite_Nieuwe TILESETS_163
+    21300326: Sprite_Nieuwe TILESETS_164
+    21300328: Sprite_Nieuwe TILESETS_165
+    21300330: Sprite_Nieuwe TILESETS_166
+    21300332: Sprite_Nieuwe TILESETS_167
+    21300334: Sprite_Nieuwe TILESETS_168
+    21300336: Sprite_Nieuwe TILESETS_169
+    21300338: Sprite_Nieuwe TILESETS_170
+    21300340: Sprite_Nieuwe TILESETS_171
+    21300342: Sprite_Nieuwe TILESETS_172
+    21300344: Sprite_Nieuwe TILESETS_173
+    21300346: Sprite_Nieuwe TILESETS_174
+    21300348: Sprite_Nieuwe TILESETS_175
+    21300350: Sprite_Nieuwe TILESETS_176
+    21300352: Sprite_Nieuwe TILESETS_177
+    21300354: Sprite_Nieuwe TILESETS_178
+    21300356: Sprite_Nieuwe TILESETS_179
+    21300358: Sprite_Nieuwe TILESETS_180
+    21300360: Sprite_Nieuwe TILESETS_181
+    21300362: Sprite_Nieuwe TILESETS_182
+    21300364: Sprite_Nieuwe TILESETS_183
+    21300366: Sprite_Nieuwe TILESETS_184
+    21300368: Sprite_Nieuwe TILESETS_185
+    21300370: Sprite_Nieuwe TILESETS_186
+    21300372: Sprite_Nieuwe TILESETS_187
+    21300374: Sprite_Nieuwe TILESETS_188
+    21300376: Sprite_Nieuwe TILESETS_189
+    21300378: Sprite_Nieuwe TILESETS_190
+    21300380: Sprite_Nieuwe TILESETS_191
+    21300382: Sprite_Nieuwe TILESETS_192
+    21300384: Sprite_Nieuwe TILESETS_193
+    21300386: Sprite_Nieuwe TILESETS_194
+    21300388: Sprite_Nieuwe TILESETS_195
+    21300390: Sprite_Nieuwe TILESETS_196
+    21300392: Sprite_Nieuwe TILESETS_197
+    21300394: Sprite_Nieuwe TILESETS_198
+    21300396: Sprite_Nieuwe TILESETS_199
+    21300398: Sprite_Nieuwe TILESETS_200
+    21300400: Sprite_Nieuwe TILESETS_201
+    21300402: Sprite_Nieuwe TILESETS_202
+    21300404: Sprite_Nieuwe TILESETS_203
+    21300406: Sprite_Nieuwe TILESETS_204
+    21300408: Sprite_Nieuwe TILESETS_205
+    21300410: Sprite_Nieuwe TILESETS_206
+    21300412: Sprite_Nieuwe TILESETS_207
+    21300414: Sprite_Nieuwe TILESETS_208
+    21300416: Sprite_Nieuwe TILESETS_209
+    21300418: Sprite_Nieuwe TILESETS_210
+    21300420: Sprite_Nieuwe TILESETS_211
+    21300422: Sprite_Nieuwe TILESETS_212
+    21300424: Sprite_Nieuwe TILESETS_213
+    21300426: Sprite_Nieuwe TILESETS_214
+    21300428: Sprite_Nieuwe TILESETS_215
+    21300430: Sprite_Nieuwe TILESETS_216
+    21300432: Sprite_Nieuwe TILESETS_217
+    21300434: Sprite_Nieuwe TILESETS_218
+    21300436: Sprite_Nieuwe TILESETS_219
+    21300438: Sprite_Nieuwe TILESETS_220
+    21300440: Sprite_Nieuwe TILESETS_221
+    21300442: Sprite_Nieuwe TILESETS_222
+    21300444: Sprite_Nieuwe TILESETS_223
+    21300446: Sprite_Nieuwe TILESETS_224
+    21300448: Sprite_Nieuwe TILESETS_225
+    21300450: Sprite_Nieuwe TILESETS_226
+    21300452: Sprite_Nieuwe TILESETS_227
+    21300454: Sprite_Nieuwe TILESETS_228
+    21300456: Sprite_Nieuwe TILESETS_229
+    21300458: Sprite_Nieuwe TILESETS_230
+    21300460: Sprite_Nieuwe TILESETS_231
+    21300462: Sprite_Nieuwe TILESETS_232
+    21300464: Sprite_Nieuwe TILESETS_233
+    21300466: Sprite_Nieuwe TILESETS_234
+    21300468: Sprite_Nieuwe TILESETS_235
+    21300470: Sprite_Nieuwe TILESETS_236
+    21300472: Sprite_Nieuwe TILESETS_237
+    21300474: Sprite_Nieuwe TILESETS_238
+    21300476: Sprite_Nieuwe TILESETS_239
+    21300478: Sprite_Nieuwe TILESETS_240
+    21300480: Sprite_Nieuwe TILESETS_241
+    21300482: Sprite_Nieuwe TILESETS_242
+    21300484: Sprite_Nieuwe TILESETS_243
+    21300486: Sprite_Nieuwe TILESETS_244
+    21300488: Sprite_Nieuwe TILESETS_245
+    21300490: Sprite_Nieuwe TILESETS_246
+    21300492: Sprite_Nieuwe TILESETS_247
+    21300494: Sprite_Nieuwe TILESETS_248
+    21300496: Sprite_Nieuwe TILESETS_249
+    21300498: Sprite_Nieuwe TILESETS_250
+    21300500: Sprite_Nieuwe TILESETS_251
+    21300502: Sprite_Nieuwe TILESETS_252
+    21300504: Sprite_Nieuwe TILESETS_253
+    21300506: Sprite_Nieuwe TILESETS_254
+    21300508: Sprite_Nieuwe TILESETS_255
+    21300510: Sprite_Nieuwe TILESETS_256
+    21300512: Sprite_Nieuwe TILESETS_257
+    21300514: Sprite_Nieuwe TILESETS_258
+    21300516: Sprite_Nieuwe TILESETS_259
+    21300518: Sprite_Nieuwe TILESETS_260
+    21300520: Sprite_Nieuwe TILESETS_261
+    21300522: Sprite_Nieuwe TILESETS_262
+    21300524: Sprite_Nieuwe TILESETS_263
+    21300526: Sprite_Nieuwe TILESETS_264
+    21300528: Sprite_Nieuwe TILESETS_265
+    21300530: Sprite_Nieuwe TILESETS_266
+    21300532: Sprite_Nieuwe TILESETS_267
+    21300534: Sprite_Nieuwe TILESETS_268
+    21300536: Sprite_Nieuwe TILESETS_269
+    21300538: Sprite_Nieuwe TILESETS_270
+    21300540: Sprite_Nieuwe TILESETS_271
+    21300542: Sprite_Nieuwe TILESETS_272
+    21300544: Sprite_Nieuwe TILESETS_273
+    21300546: Sprite_Nieuwe TILESETS_274
+    21300548: Sprite_Nieuwe TILESETS_275
+    21300550: Sprite_Nieuwe TILESETS_276
+    21300552: Sprite_Nieuwe TILESETS_277
+    21300554: Sprite_Nieuwe TILESETS_278
+    21300556: Sprite_Nieuwe TILESETS_279
+    21300558: Sprite_Nieuwe TILESETS_280
+    21300560: Sprite_Nieuwe TILESETS_281
+    21300562: Sprite_Nieuwe TILESETS_282
+    21300564: Sprite_Nieuwe TILESETS_283
+    21300566: Sprite_Nieuwe TILESETS_284
+    21300568: Sprite_Nieuwe TILESETS_285
+    21300570: Sprite_Nieuwe TILESETS_286
+    21300572: Sprite_Nieuwe TILESETS_287
+    21300574: Sprite_Nieuwe TILESETS_288
+    21300576: Sprite_Nieuwe TILESETS_289
+    21300578: Sprite_Nieuwe TILESETS_290
+    21300580: Sprite_Nieuwe TILESETS_291
+    21300582: Sprite_Nieuwe TILESETS_292
+    21300584: Sprite_Nieuwe TILESETS_293
+    21300586: Sprite_Nieuwe TILESETS_294
+    21300588: Sprite_Nieuwe TILESETS_295
+    21300590: Sprite_Nieuwe TILESETS_296
+    21300592: Sprite_Nieuwe TILESETS_297
+    21300594: Sprite_Nieuwe TILESETS_298
+    21300596: Sprite_Nieuwe TILESETS_299
+    21300598: Sprite_Nieuwe TILESETS_300
+    21300600: Sprite_Nieuwe TILESETS_301
+    21300602: Sprite_Nieuwe TILESETS_302
+    21300604: Sprite_Nieuwe TILESETS_303
+    21300606: Sprite_Nieuwe TILESETS_304
+    21300608: Sprite_Nieuwe TILESETS_305
+    21300610: Sprite_Nieuwe TILESETS_306
+    21300612: Sprite_Nieuwe TILESETS_307
+    21300614: Sprite_Nieuwe TILESETS_308
+    21300616: Sprite_Nieuwe TILESETS_309
+    21300618: Sprite_Nieuwe TILESETS_310
+    21300620: Sprite_Nieuwe TILESETS_311
+    21300622: Sprite_Nieuwe TILESETS_312
+    21300624: Sprite_Nieuwe TILESETS_313
+    21300626: Sprite_Nieuwe TILESETS_314
+    21300628: Sprite_Nieuwe TILESETS_315
+    21300630: Sprite_Nieuwe TILESETS_316
+    21300632: Sprite_Nieuwe TILESETS_317
+    21300634: Sprite_Nieuwe TILESETS_318
+    21300636: Sprite_Nieuwe TILESETS_319
+    21300638: Sprite_Nieuwe TILESETS_320
+    21300640: Sprite_Nieuwe TILESETS_321
+    21300642: Sprite_Nieuwe TILESETS_322
+    21300644: Sprite_Nieuwe TILESETS_323
+    21300646: Sprite_Nieuwe TILESETS_324
+    21300648: Sprite_Nieuwe TILESETS_325
+    21300650: Sprite_Nieuwe TILESETS_326
+    21300652: Sprite_Nieuwe TILESETS_327
+    21300654: Sprite_Nieuwe TILESETS_328
+    21300656: Sprite_Nieuwe TILESETS_329
+    21300658: Sprite_Nieuwe TILESETS_330
+    21300660: Sprite_Nieuwe TILESETS_331
+    21300662: Sprite_Nieuwe TILESETS_332
+    21300664: Sprite_Nieuwe TILESETS_333
+    21300666: Sprite_Nieuwe TILESETS_334
+    21300668: Sprite_Nieuwe TILESETS_335
+    21300670: Sprite_Nieuwe TILESETS_336
+    21300672: Sprite_Nieuwe TILESETS_337
+    21300674: Sprite_Nieuwe TILESETS_338
+    21300676: Sprite_Nieuwe TILESETS_339
+    21300678: Sprite_Nieuwe TILESETS_340
+    21300680: Sprite_Nieuwe TILESETS_341
+    21300682: Sprite_Nieuwe TILESETS_342
+    21300684: Sprite_Nieuwe TILESETS_343
+    21300686: Sprite_Nieuwe TILESETS_344
+    21300688: Sprite_Nieuwe TILESETS_345
+    21300690: Sprite_Nieuwe TILESETS_346
+    21300692: Sprite_Nieuwe TILESETS_347
+    21300694: Sprite_Nieuwe TILESETS_348
+    21300696: Sprite_Nieuwe TILESETS_349
+    21300698: Sprite_Nieuwe TILESETS_350
+    21300700: Sprite_Nieuwe TILESETS_351
+    21300702: Sprite_Nieuwe TILESETS_352
+    21300704: Sprite_Nieuwe TILESETS_353
+    21300706: Sprite_Nieuwe TILESETS_354
+    21300708: Sprite_Nieuwe TILESETS_355
+    21300710: Sprite_Nieuwe TILESETS_356
+    21300712: Sprite_Nieuwe TILESETS_357
+    21300714: Sprite_Nieuwe TILESETS_358
+    21300716: Sprite_Nieuwe TILESETS_359
+    21300718: Sprite_Nieuwe TILESETS_360
+    21300720: Sprite_Nieuwe TILESETS_361
+    21300722: Sprite_Nieuwe TILESETS_362
+    21300724: Sprite_Nieuwe TILESETS_363
+    21300726: Sprite_Nieuwe TILESETS_364
+    21300728: Sprite_Nieuwe TILESETS_365
+    21300730: Sprite_Nieuwe TILESETS_366
+    21300732: Sprite_Nieuwe TILESETS_367
+    21300734: Sprite_Nieuwe TILESETS_368
+    21300736: Sprite_Nieuwe TILESETS_369
+    21300738: Sprite_Nieuwe TILESETS_370
+    21300740: Sprite_Nieuwe TILESETS_371
+    21300742: Sprite_Nieuwe TILESETS_372
+    21300744: Sprite_Nieuwe TILESETS_373
+    21300746: Sprite_Nieuwe TILESETS_374
+    21300748: Sprite_Nieuwe TILESETS_375
+    21300750: Sprite_Nieuwe TILESETS_376
+    21300752: Sprite_Nieuwe TILESETS_377
+    21300754: Sprite_Nieuwe TILESETS_378
+    21300756: Sprite_Nieuwe TILESETS_379
+    21300758: Sprite_Nieuwe TILESETS_380
+    21300760: Sprite_Nieuwe TILESETS_381
+    21300762: Sprite_Nieuwe TILESETS_382
+    21300764: Sprite_Nieuwe TILESETS_383
+    21300766: Sprite_Nieuwe TILESETS_384
+    21300768: Sprite_Nieuwe TILESETS_385
+    21300770: Sprite_Nieuwe TILESETS_386
+    21300772: Sprite_Nieuwe TILESETS_387
+    21300774: Sprite_Nieuwe TILESETS_388
+    21300776: Sprite_Nieuwe TILESETS_389
+    21300778: Sprite_Nieuwe TILESETS_390
+    21300780: Sprite_Nieuwe TILESETS_391
+    21300782: Sprite_Nieuwe TILESETS_392
+    21300784: Sprite_Nieuwe TILESETS_393
+    21300786: Sprite_Nieuwe TILESETS_394
+    21300788: Sprite_Nieuwe TILESETS_395
+    21300790: Sprite_Nieuwe TILESETS_396
+    21300792: Sprite_Nieuwe TILESETS_397
+    21300794: Sprite_Nieuwe TILESETS_398
+    21300796: Sprite_Nieuwe TILESETS_399
+    21300798: Sprite_Nieuwe TILESETS_400
+    100100000: _MapPrfab
+    2569400265252428796: _MapPrfab/artist_house_top_1/Grid
+    3664157343022684176: _MapPrfab/artist_house_top_1/Tile Layer 1/TilemapRenderer
+    8195094279510102542: _MapPrfab/artist_house_top_1/Tile Layer 1/Tilemap
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 1fa25d03934ea624a82bf2fcee6f0873, type: 3}
+  errors:
+  - Could not find tile 419. Your imported map will have holes until this is fixed.
+  - Could not find tile 420. Your imported map will have holes until this is fixed.
+  - Could not find tile 421. Your imported map will have holes until this is fixed.
+  - Could not find tile 422. Your imported map will have holes until this is fixed.
+  - Could not find tile 423. Your imported map will have holes until this is fixed.
+  - Could not find tile 424. Your imported map will have holes until this is fixed.
+  - Could not find tile 425. Your imported map will have holes until this is fixed.
+  - Could not find tile 426. Your imported map will have holes until this is fixed.
+  - Could not find tile 427. Your imported map will have holes until this is fixed.
+  - Could not find tile 428. Your imported map will have holes until this is fixed.
+  - Could not find tile 429. Your imported map will have holes until this is fixed.
+  - Could not find tile 435. Your imported map will have holes until this is fixed.
+  - Could not find tile 436. Your imported map will have holes until this is fixed.
+  - Could not find tile 437. Your imported map will have holes until this is fixed.
+  - Could not find tile 438. Your imported map will have holes until this is fixed.
+  - Could not find tile 439. Your imported map will have holes until this is fixed.
+  - Could not find tile 440. Your imported map will have holes until this is fixed.
+  - Could not find tile 441. Your imported map will have holes until this is fixed.
+  - Could not find tile 442. Your imported map will have holes until this is fixed.
+  - Could not find tile 443. Your imported map will have holes until this is fixed.
+  - Could not find tile 444. Your imported map will have holes until this is fixed.
+  - Could not find tile 445. Your imported map will have holes until this is fixed.
+  - Could not find tile 451. Your imported map will have holes until this is fixed.
+  - Could not find tile 452. Your imported map will have holes until this is fixed.
+  - Could not find tile 453. Your imported map will have holes until this is fixed.
+  - Could not find tile 454. Your imported map will have holes until this is fixed.
+  - Could not find tile 455. Your imported map will have holes until this is fixed.
+  - Could not find tile 456. Your imported map will have holes until this is fixed.
+  - Could not find tile 457. Your imported map will have holes until this is fixed.
+  - Could not find tile 458. Your imported map will have holes until this is fixed.
+  - Could not find tile 459. Your imported map will have holes until this is fixed.
+  - Could not find tile 460. Your imported map will have holes until this is fixed.
+  - Could not find tile 461. Your imported map will have holes until this is fixed.
+  - Could not find tile 467. Your imported map will have holes until this is fixed.
+  - Could not find tile 468. Your imported map will have holes until this is fixed.
+  - Could not find tile 469. Your imported map will have holes until this is fixed.
+  - Could not find tile 470. Your imported map will have holes until this is fixed.
+  - Could not find tile 471. Your imported map will have holes until this is fixed.
+  - Could not find tile 472. Your imported map will have holes until this is fixed.
+  - Could not find tile 473. Your imported map will have holes until this is fixed.
+  - Could not find tile 474. Your imported map will have holes until this is fixed.
+  - Could not find tile 475. Your imported map will have holes until this is fixed.
+  - Could not find tile 476. Your imported map will have holes until this is fixed.
+  - Could not find tile 477. Your imported map will have holes until this is fixed.
+  - Could not find tile 483. Your imported map will have holes until this is fixed.
+  - Could not find tile 484. Your imported map will have holes until this is fixed.
+  - Could not find tile 485. Your imported map will have holes until this is fixed.
+  - Could not find tile 486. Your imported map will have holes until this is fixed.
+  - Could not find tile 487. Your imported map will have holes until this is fixed.
+  - Could not find tile 488. Your imported map will have holes until this is fixed.
+  - Could not find tile 489. Your imported map will have holes until this is fixed.
+  - Could not find tile 490. Your imported map will have holes until this is fixed.
+  - Could not find tile 491. Your imported map will have holes until this is fixed.
+  - Could not find tile 492. Your imported map will have holes until this is fixed.
+  - Could not find tile 493. Your imported map will have holes until this is fixed.
+  - Could not find tile 499. Your imported map will have holes until this is fixed.
+  - Could not find tile 500. Your imported map will have holes until this is fixed.
+  - Could not find tile 501. Your imported map will have holes until this is fixed.
+  - Could not find tile 502. Your imported map will have holes until this is fixed.
+  - Could not find tile 503. Your imported map will have holes until this is fixed.
+  - Could not find tile 504. Your imported map will have holes until this is fixed.
+  - Could not find tile 505. Your imported map will have holes until this is fixed.
+  - Could not find tile 506. Your imported map will have holes until this is fixed.
+  - Could not find tile 507. Your imported map will have holes until this is fixed.
+  - Could not find tile 508. Your imported map will have holes until this is fixed.
+  - Could not find tile 509. Your imported map will have holes until this is fixed.
+  - Could not find tile 515. Your imported map will have holes until this is fixed.
+  - Could not find tile 516. Your imported map will have holes until this is fixed.
+  - Could not find tile 517. Your imported map will have holes until this is fixed.
+  - Could not find tile 518. Your imported map will have holes until this is fixed.
+  - Could not find tile 519. Your imported map will have holes until this is fixed.
+  - Could not find tile 520. Your imported map will have holes until this is fixed.
+  - Could not find tile 521. Your imported map will have holes until this is fixed.
+  - Could not find tile 522. Your imported map will have holes until this is fixed.
+  - Could not find tile 523. Your imported map will have holes until this is fixed.
+  - Could not find tile 524. Your imported map will have holes until this is fixed.
+  - Could not find tile 525. Your imported map will have holes until this is fixed.
+  warnings:
+  - Tileset 'Nieuwe TILESETS' is an embedded tileset. Exported tilesets are preferred.
+  missingSortingLayers: []
+  missingLayers: []
+  pixelsPerUnit: 100
+  edgesPerEllipse: 32
+  tilesAsObjects: 0
+  importSorting: 0
+  isIsometric: 0
+  customImporterClassName: 
+  internalTilesets:
+  - {instanceID: 0}

@@ -1,0 +1,69 @@
+fileFormatVersion: 2
+guid: 4cc861467e3fa384d97476c2206e8f8b
+ScriptedImporter:
+  fileIDToRecycleName:
+    100000: _MapPrfab/Choice_city
+    100002: _MapPrfab/Choice_city/Tile Layer 1
+    100004: _MapPrfab/Choice_city/Grass
+    100006: _MapPrfab/Choice_city/Houses
+    100008: _MapPrfab/Choice_city/Path
+    100010: _MapPrfab/Choice_city/Plants
+    100012: _MapPrfab/Choice_city/Trees
+    100014: _MapPrfab/Choice_city/Trees 2
+    400000: _MapPrfab/Choice_city/Transform
+    400002: _MapPrfab/Choice_city/Tile Layer 1/Transform
+    400004: _MapPrfab/Choice_city/Grass/Transform
+    400006: _MapPrfab/Choice_city/Houses/Transform
+    400008: _MapPrfab/Choice_city/Path/Transform
+    400010: _MapPrfab/Choice_city/Plants/Transform
+    400012: _MapPrfab/Choice_city/Trees/Transform
+    400014: _MapPrfab/Choice_city/Trees 2/Transform
+    11400000: _MapPrfab/Choice_city/MonoBehaviour-SuperTiled2Unity.SuperMap
+    11400002: _MapPrfab/Choice_city/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400004: _MapPrfab/Choice_city/Tile Layer 1/MonoBehaviour-SuperTiled2Unity.SuperTileLayer
+    11400006: _MapPrfab/Choice_city/Tile Layer 1/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400008: _superAsset
+    11400010: _MapPrfab/Choice_city/Grass/MonoBehaviour-SuperTiled2Unity.SuperTileLayer
+    11400012: _MapPrfab/Choice_city/Grass/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400014: _MapPrfab/Choice_city/Houses/MonoBehaviour-SuperTiled2Unity.SuperTileLayer
+    11400016: _MapPrfab/Choice_city/Houses/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400018: _MapPrfab/Choice_city/Path/MonoBehaviour-SuperTiled2Unity.SuperTileLayer
+    11400020: _MapPrfab/Choice_city/Path/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400022: _MapPrfab/Choice_city/Plants/MonoBehaviour-SuperTiled2Unity.SuperTileLayer
+    11400024: _MapPrfab/Choice_city/Plants/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400026: _MapPrfab/Choice_city/Trees/MonoBehaviour-SuperTiled2Unity.SuperTileLayer
+    11400028: _MapPrfab/Choice_city/Trees/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400030: _MapPrfab/Choice_city/Trees 2/MonoBehaviour-SuperTiled2Unity.SuperTileLayer
+    11400032: _MapPrfab/Choice_city/Trees 2/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    100100000: _MapPrfab
+    2569400265252428796: _MapPrfab/Choice_city/Grid
+    3664157343022684176: _MapPrfab/Choice_city/Tile Layer 1/TilemapRenderer
+    3664157343022684178: _MapPrfab/Choice_city/Grass/TilemapRenderer
+    3664157343022684180: _MapPrfab/Choice_city/Houses/TilemapRenderer
+    3664157343022684182: _MapPrfab/Choice_city/Path/TilemapRenderer
+    3664157343022684184: _MapPrfab/Choice_city/Plants/TilemapRenderer
+    3664157343022684186: _MapPrfab/Choice_city/Trees/TilemapRenderer
+    3664157343022684188: _MapPrfab/Choice_city/Trees 2/TilemapRenderer
+    8195094279510102542: _MapPrfab/Choice_city/Tile Layer 1/Tilemap
+    8195094279510102544: _MapPrfab/Choice_city/Grass/Tilemap
+    8195094279510102546: _MapPrfab/Choice_city/Houses/Tilemap
+    8195094279510102548: _MapPrfab/Choice_city/Path/Tilemap
+    8195094279510102550: _MapPrfab/Choice_city/Plants/Tilemap
+    8195094279510102552: _MapPrfab/Choice_city/Trees/Tilemap
+    8195094279510102554: _MapPrfab/Choice_city/Trees 2/Tilemap
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 1fa25d03934ea624a82bf2fcee6f0873, type: 3}
+  errors: []
+  warnings: []
+  missingSortingLayers: []
+  missingLayers: []
+  pixelsPerUnit: 100
+  edgesPerEllipse: 32
+  tilesAsObjects: 0
+  importSorting: 0
+  isIsometric: 0
+  customImporterClassName: 
+  internalTilesets: []

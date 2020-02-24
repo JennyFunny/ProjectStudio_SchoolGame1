@@ -1,0 +1,375 @@
+fileFormatVersion: 2
+guid: b97545545d6fc4d3e86f12155fd6f733
+ScriptedImporter:
+  fileIDToRecycleName:
+    100000: _MapPrfab/demo-2
+    100002: _MapPrfab/demo-2/All
+    100004: _MapPrfab/demo-2/Collision Mask
+    100006: _MapPrfab/demo-2/Collision Mask/Object_1
+    100008: _MapPrfab/demo-2/Collision Mask/Object_2
+    100010: _MapPrfab/demo-2/Collision Mask/Object_3
+    100012: _MapPrfab/demo-2/Collision Mask/Object_4
+    100014: _MapPrfab/demo-2/Collision Mask/Object_5
+    100016: _MapPrfab/demo-2/Collision Mask/Object_6
+    100018: _MapPrfab/demo-2/Collision Mask/Object_7
+    100022: _MapPrfab/demo-2/Collision Mask/Object_9
+    100024: _MapPrfab/demo-2/Collision Mask/Object_10
+    100026: _MapPrfab/demo-2/Collision Mask/Object_11
+    100028: _MapPrfab/demo-2/Collision Mask/Object_12
+    100030: _MapPrfab/demo-2/Collision Mask/Object_13
+    100032: _MapPrfab/demo-2/Collision Mask/Object_14
+    100034: _MapPrfab/demo-2/Collision Mask/Object_15
+    100036: _MapPrfab/demo-2/Collision Mask/Object_16
+    100038: _MapPrfab/demo-2/Collision Mask/Object_17
+    100040: _MapPrfab/demo-2/Collision Mask/Object_18
+    100042: _MapPrfab/demo-2/Collision Mask/Object_19
+    100044: _MapPrfab/demo-2/Collision Mask/Object_20
+    100046: _MapPrfab/demo-2/Collision Mask/Object_21
+    100048: _MapPrfab/demo-2/Collision Mask/Object_22
+    100050: _MapPrfab/demo-2/Collision Mask/Object_23
+    100052: _MapPrfab/demo-2/Collision Mask/Object_24
+    100054: _MapPrfab/demo-2/Collision Mask/Object_25
+    100056: _MapPrfab/demo-2/Collision Mask/Object_26
+    100058: _MapPrfab/demo-2/Collision Mask/Object_27
+    100060: _MapPrfab/demo-2/Collision Mask/Object_28
+    100062: _MapPrfab/demo-2/Collision Mask/Object_29
+    100064: _MapPrfab/demo-2/Collision Mask/Object_30
+    100066: _MapPrfab/demo-2/Collision Mask/Object_31
+    100068: _MapPrfab/demo-2/Collision Mask/Object_32
+    100070: _MapPrfab/demo-2/Collision Mask/Object_33
+    100072: _MapPrfab/demo-2/Collision Mask/Object_34
+    100074: _MapPrfab/demo-2/Collision Mask/Object_35
+    100076: _MapPrfab/demo-2/Collision Mask/Object_36
+    100078: _MapPrfab/demo-2/Collision Mask/Object_37
+    100080: _MapPrfab/demo-2/Collision Mask/Object_38
+    100082: _MapPrfab/demo-2/Collision Mask/Object_39
+    100084: _MapPrfab/demo-2/Collision Mask/Object_40
+    100086: _MapPrfab/demo-2/Collision Mask/Object_41
+    100088: _MapPrfab/demo-2/Collision Mask/Object_42
+    100090: _MapPrfab/demo-2/Collision Mask/Object_43
+    100092: _MapPrfab/demo-2/Collision Mask/Object_44
+    100094: _MapPrfab/demo-2/Collision Mask/Object_45
+    100096: _MapPrfab/demo-2/Collision Mask/Object_46
+    100098: _MapPrfab/demo-2/Collision Mask/Object_47
+    100100: _MapPrfab/demo-2/Collision Mask/Object_48
+    100102: _MapPrfab/demo-2/Collision Mask/Object_49
+    100104: _MapPrfab/demo-2/Collision Mask/Object_50
+    100106: _MapPrfab/demo-2/Collision Mask/Object_51
+    100108: _MapPrfab/demo-2/Collision Mask/Object_52
+    100184: _MapPrfab/demo-2/Doors
+    100186: _MapPrfab/demo-2/Grass
+    100188: _MapPrfab/demo-2/Lantaarns Day
+    100190: _MapPrfab/demo-2/Lantaarns Night
+    100192: _MapPrfab/demo-2/World Objects
+    400000: _MapPrfab/demo-2/Transform
+    400002: _MapPrfab/demo-2/All/Transform
+    400004: _MapPrfab/demo-2/Collision Mask/Transform
+    400006: _MapPrfab/demo-2/Collision Mask/Object_1/Transform
+    400008: _MapPrfab/demo-2/Collision Mask/Object_2/Transform
+    400010: _MapPrfab/demo-2/Collision Mask/Object_3/Transform
+    400012: _MapPrfab/demo-2/Collision Mask/Object_4/Transform
+    400014: _MapPrfab/demo-2/Collision Mask/Object_5/Transform
+    400016: _MapPrfab/demo-2/Collision Mask/Object_6/Transform
+    400018: _MapPrfab/demo-2/Collision Mask/Object_7/Transform
+    400022: _MapPrfab/demo-2/Collision Mask/Object_9/Transform
+    400024: _MapPrfab/demo-2/Collision Mask/Object_10/Transform
+    400026: _MapPrfab/demo-2/Collision Mask/Object_11/Transform
+    400028: _MapPrfab/demo-2/Collision Mask/Object_12/Transform
+    400030: _MapPrfab/demo-2/Collision Mask/Object_13/Transform
+    400032: _MapPrfab/demo-2/Collision Mask/Object_14/Transform
+    400034: _MapPrfab/demo-2/Collision Mask/Object_15/Transform
+    400036: _MapPrfab/demo-2/Collision Mask/Object_16/Transform
+    400038: _MapPrfab/demo-2/Collision Mask/Object_17/Transform
+    400040: _MapPrfab/demo-2/Collision Mask/Object_18/Transform
+    400042: _MapPrfab/demo-2/Collision Mask/Object_19/Transform
+    400044: _MapPrfab/demo-2/Collision Mask/Object_20/Transform
+    400046: _MapPrfab/demo-2/Collision Mask/Object_21/Transform
+    400048: _MapPrfab/demo-2/Collision Mask/Object_22/Transform
+    400050: _MapPrfab/demo-2/Collision Mask/Object_23/Transform
+    400052: _MapPrfab/demo-2/Collision Mask/Object_24/Transform
+    400054: _MapPrfab/demo-2/Collision Mask/Object_25/Transform
+    400056: _MapPrfab/demo-2/Collision Mask/Object_26/Transform
+    400058: _MapPrfab/demo-2/Collision Mask/Object_27/Transform
+    400060: _MapPrfab/demo-2/Collision Mask/Object_28/Transform
+    400062: _MapPrfab/demo-2/Collision Mask/Object_29/Transform
+    400064: _MapPrfab/demo-2/Collision Mask/Object_30/Transform
+    400066: _MapPrfab/demo-2/Collision Mask/Object_31/Transform
+    400068: _MapPrfab/demo-2/Collision Mask/Object_32/Transform
+    400070: _MapPrfab/demo-2/Collision Mask/Object_33/Transform
+    400072: _MapPrfab/demo-2/Collision Mask/Object_34/Transform
+    400074: _MapPrfab/demo-2/Collision Mask/Object_35/Transform
+    400076: _MapPrfab/demo-2/Collision Mask/Object_36/Transform
+    400078: _MapPrfab/demo-2/Collision Mask/Object_37/Transform
+    400080: _MapPrfab/demo-2/Collision Mask/Object_38/Transform
+    400082: _MapPrfab/demo-2/Collision Mask/Object_39/Transform
+    400084: _MapPrfab/demo-2/Collision Mask/Object_40/Transform
+    400086: _MapPrfab/demo-2/Collision Mask/Object_41/Transform
+    400088: _MapPrfab/demo-2/Collision Mask/Object_42/Transform
+    400090: _MapPrfab/demo-2/Collision Mask/Object_43/Transform
+    400092: _MapPrfab/demo-2/Collision Mask/Object_44/Transform
+    400094: _MapPrfab/demo-2/Collision Mask/Object_45/Transform
+    400096: _MapPrfab/demo-2/Collision Mask/Object_46/Transform
+    400098: _MapPrfab/demo-2/Collision Mask/Object_47/Transform
+    400100: _MapPrfab/demo-2/Collision Mask/Object_48/Transform
+    400102: _MapPrfab/demo-2/Collision Mask/Object_49/Transform
+    400104: _MapPrfab/demo-2/Collision Mask/Object_50/Transform
+    400106: _MapPrfab/demo-2/Collision Mask/Object_51/Transform
+    400108: _MapPrfab/demo-2/Collision Mask/Object_52/Transform
+    400184: _MapPrfab/demo-2/Doors/Transform
+    400186: _MapPrfab/demo-2/Grass/Transform
+    400188: _MapPrfab/demo-2/Lantaarns Day/Transform
+    400190: _MapPrfab/demo-2/Lantaarns Night/Transform
+    400192: _MapPrfab/demo-2/World Objects/Transform
+    6100000: _MapPrfab/demo-2/Collision Mask/Object_1/BoxCollider2D
+    6100002: _MapPrfab/demo-2/Collision Mask/Object_2/BoxCollider2D
+    6100004: _MapPrfab/demo-2/Collision Mask/Object_3/BoxCollider2D
+    6100006: _MapPrfab/demo-2/Collision Mask/Object_4/BoxCollider2D
+    6100008: _MapPrfab/demo-2/Collision Mask/Object_5/BoxCollider2D
+    6100010: _MapPrfab/demo-2/Collision Mask/Object_6/BoxCollider2D
+    6100012: _MapPrfab/demo-2/Collision Mask/Object_7/BoxCollider2D
+    6100016: _MapPrfab/demo-2/Collision Mask/Object_9/BoxCollider2D
+    6100018: _MapPrfab/demo-2/Collision Mask/Object_10/BoxCollider2D
+    6100020: _MapPrfab/demo-2/Collision Mask/Object_11/BoxCollider2D
+    6100022: _MapPrfab/demo-2/Collision Mask/Object_12/BoxCollider2D
+    6100024: _MapPrfab/demo-2/Collision Mask/Object_13/BoxCollider2D
+    6100026: _MapPrfab/demo-2/Collision Mask/Object_14/BoxCollider2D
+    6100028: _MapPrfab/demo-2/Collision Mask/Object_15/BoxCollider2D
+    6100030: _MapPrfab/demo-2/Collision Mask/Object_16/BoxCollider2D
+    6100032: _MapPrfab/demo-2/Collision Mask/Object_17/BoxCollider2D
+    6100034: _MapPrfab/demo-2/Collision Mask/Object_18/BoxCollider2D
+    6100036: _MapPrfab/demo-2/Collision Mask/Object_19/BoxCollider2D
+    6100038: _MapPrfab/demo-2/Collision Mask/Object_20/BoxCollider2D
+    6100040: _MapPrfab/demo-2/Collision Mask/Object_21/BoxCollider2D
+    6100042: _MapPrfab/demo-2/Collision Mask/Object_22/BoxCollider2D
+    6100044: _MapPrfab/demo-2/Collision Mask/Object_23/BoxCollider2D
+    6100046: _MapPrfab/demo-2/Collision Mask/Object_24/BoxCollider2D
+    6100048: _MapPrfab/demo-2/Collision Mask/Object_25/BoxCollider2D
+    6100050: _MapPrfab/demo-2/Collision Mask/Object_26/BoxCollider2D
+    6100052: _MapPrfab/demo-2/Collision Mask/Object_27/BoxCollider2D
+    6100054: _MapPrfab/demo-2/Collision Mask/Object_28/BoxCollider2D
+    6100056: _MapPrfab/demo-2/Collision Mask/Object_29/BoxCollider2D
+    6100058: _MapPrfab/demo-2/Collision Mask/Object_30/BoxCollider2D
+    6100060: _MapPrfab/demo-2/Collision Mask/Object_31/BoxCollider2D
+    6100062: _MapPrfab/demo-2/Collision Mask/Object_32/BoxCollider2D
+    6100064: _MapPrfab/demo-2/Collision Mask/Object_33/BoxCollider2D
+    6100066: _MapPrfab/demo-2/Collision Mask/Object_34/BoxCollider2D
+    6100068: _MapPrfab/demo-2/Collision Mask/Object_35/BoxCollider2D
+    6100070: _MapPrfab/demo-2/Collision Mask/Object_36/BoxCollider2D
+    6100072: _MapPrfab/demo-2/Collision Mask/Object_37/BoxCollider2D
+    6100074: _MapPrfab/demo-2/Collision Mask/Object_38/BoxCollider2D
+    6100076: _MapPrfab/demo-2/Collision Mask/Object_39/BoxCollider2D
+    6100078: _MapPrfab/demo-2/Collision Mask/Object_40/BoxCollider2D
+    6100080: _MapPrfab/demo-2/Collision Mask/Object_41/BoxCollider2D
+    6100082: _MapPrfab/demo-2/Collision Mask/Object_42/BoxCollider2D
+    6100084: _MapPrfab/demo-2/Collision Mask/Object_43/BoxCollider2D
+    6100086: _MapPrfab/demo-2/Collision Mask/Object_44/BoxCollider2D
+    6100088: _MapPrfab/demo-2/Collision Mask/Object_45/BoxCollider2D
+    6100090: _MapPrfab/demo-2/Collision Mask/Object_46/BoxCollider2D
+    6100092: _MapPrfab/demo-2/Collision Mask/Object_47/BoxCollider2D
+    6100094: _MapPrfab/demo-2/Collision Mask/Object_48/BoxCollider2D
+    6100096: _MapPrfab/demo-2/Collision Mask/Object_49/BoxCollider2D
+    6100098: _MapPrfab/demo-2/Collision Mask/Object_50/BoxCollider2D
+    6100100: _MapPrfab/demo-2/Collision Mask/Object_51/BoxCollider2D
+    6100102: _MapPrfab/demo-2/Collision Mask/Object_52/BoxCollider2D
+    11400000: _MapPrfab/demo-2/MonoBehaviour-SuperTiled2Unity.SuperMap
+    11400002: _MapPrfab/demo-2/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400004: _MapPrfab/demo-2/All/MonoBehaviour-SuperTiled2Unity.SuperTileLayer
+    11400006: _MapPrfab/demo-2/All/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400008: _MapPrfab/demo-2/Collision Mask/MonoBehaviour-SuperTiled2Unity.SuperObjectLayer
+    11400010: _MapPrfab/demo-2/Collision Mask/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400012: _MapPrfab/demo-2/Collision Mask/Object_1/MonoBehaviour-SuperTiled2Unity.SuperObject
+    11400014: _MapPrfab/demo-2/Collision Mask/Object_1/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400016: _MapPrfab/demo-2/Collision Mask/Object_1/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400018: _MapPrfab/demo-2/Collision Mask/Object_2/MonoBehaviour-SuperTiled2Unity.SuperObject
+    11400020: _MapPrfab/demo-2/Collision Mask/Object_2/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400022: _MapPrfab/demo-2/Collision Mask/Object_2/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400024: _MapPrfab/demo-2/Collision Mask/Object_3/MonoBehaviour-SuperTiled2Unity.SuperObject
+    11400026: _MapPrfab/demo-2/Collision Mask/Object_3/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400028: _MapPrfab/demo-2/Collision Mask/Object_3/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400030: _MapPrfab/demo-2/Collision Mask/Object_4/MonoBehaviour-SuperTiled2Unity.SuperObject
+    11400032: _MapPrfab/demo-2/Collision Mask/Object_4/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400034: _MapPrfab/demo-2/Collision Mask/Object_4/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400036: _MapPrfab/demo-2/Collision Mask/Object_5/MonoBehaviour-SuperTiled2Unity.SuperObject
+    11400038: _MapPrfab/demo-2/Collision Mask/Object_5/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400040: _MapPrfab/demo-2/Collision Mask/Object_5/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400042: _MapPrfab/demo-2/Collision Mask/Object_6/MonoBehaviour-SuperTiled2Unity.SuperObject
+    11400044: _MapPrfab/demo-2/Collision Mask/Object_6/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400046: _MapPrfab/demo-2/Collision Mask/Object_6/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400048: _MapPrfab/demo-2/Collision Mask/Object_7/MonoBehaviour-SuperTiled2Unity.SuperObject
+    11400050: _MapPrfab/demo-2/Collision Mask/Object_7/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400052: _MapPrfab/demo-2/Collision Mask/Object_7/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400060: _MapPrfab/demo-2/Collision Mask/Object_9/MonoBehaviour-SuperTiled2Unity.SuperObject
+    11400062: _MapPrfab/demo-2/Collision Mask/Object_9/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400064: _MapPrfab/demo-2/Collision Mask/Object_9/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400066: _MapPrfab/demo-2/Collision Mask/Object_10/MonoBehaviour-SuperTiled2Unity.SuperObject
+    11400068: _MapPrfab/demo-2/Collision Mask/Object_10/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400070: _MapPrfab/demo-2/Collision Mask/Object_10/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400072: _MapPrfab/demo-2/Collision Mask/Object_11/MonoBehaviour-SuperTiled2Unity.SuperObject
+    11400074: _MapPrfab/demo-2/Collision Mask/Object_11/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400076: _MapPrfab/demo-2/Collision Mask/Object_11/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400078: _MapPrfab/demo-2/Collision Mask/Object_12/MonoBehaviour-SuperTiled2Unity.SuperObject
+    11400080: _MapPrfab/demo-2/Collision Mask/Object_12/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400082: _MapPrfab/demo-2/Collision Mask/Object_12/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400084: _MapPrfab/demo-2/Collision Mask/Object_13/MonoBehaviour-SuperTiled2Unity.SuperObject
+    11400086: _MapPrfab/demo-2/Collision Mask/Object_13/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400088: _MapPrfab/demo-2/Collision Mask/Object_13/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400090: _MapPrfab/demo-2/Collision Mask/Object_14/MonoBehaviour-SuperTiled2Unity.SuperObject
+    11400092: _MapPrfab/demo-2/Collision Mask/Object_14/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400094: _MapPrfab/demo-2/Collision Mask/Object_14/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400096: _MapPrfab/demo-2/Collision Mask/Object_15/MonoBehaviour-SuperTiled2Unity.SuperObject
+    11400098: _MapPrfab/demo-2/Collision Mask/Object_15/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400100: _MapPrfab/demo-2/Collision Mask/Object_15/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400102: _MapPrfab/demo-2/Collision Mask/Object_16/MonoBehaviour-SuperTiled2Unity.SuperObject
+    11400104: _MapPrfab/demo-2/Collision Mask/Object_16/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400106: _MapPrfab/demo-2/Collision Mask/Object_16/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400108: _MapPrfab/demo-2/Collision Mask/Object_17/MonoBehaviour-SuperTiled2Unity.SuperObject
+    11400110: _MapPrfab/demo-2/Collision Mask/Object_17/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400112: _MapPrfab/demo-2/Collision Mask/Object_17/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400114: _MapPrfab/demo-2/Collision Mask/Object_18/MonoBehaviour-SuperTiled2Unity.SuperObject
+    11400116: _MapPrfab/demo-2/Collision Mask/Object_18/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400118: _MapPrfab/demo-2/Collision Mask/Object_18/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400120: _MapPrfab/demo-2/Collision Mask/Object_19/MonoBehaviour-SuperTiled2Unity.SuperObject
+    11400122: _MapPrfab/demo-2/Collision Mask/Object_19/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400124: _MapPrfab/demo-2/Collision Mask/Object_19/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400126: _MapPrfab/demo-2/Collision Mask/Object_20/MonoBehaviour-SuperTiled2Unity.SuperObject
+    11400128: _MapPrfab/demo-2/Collision Mask/Object_20/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400130: _MapPrfab/demo-2/Collision Mask/Object_20/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400132: _MapPrfab/demo-2/Collision Mask/Object_21/MonoBehaviour-SuperTiled2Unity.SuperObject
+    11400134: _MapPrfab/demo-2/Collision Mask/Object_21/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400136: _MapPrfab/demo-2/Collision Mask/Object_21/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400138: _MapPrfab/demo-2/Collision Mask/Object_22/MonoBehaviour-SuperTiled2Unity.SuperObject
+    11400140: _MapPrfab/demo-2/Collision Mask/Object_22/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400142: _MapPrfab/demo-2/Collision Mask/Object_22/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400144: _MapPrfab/demo-2/Collision Mask/Object_23/MonoBehaviour-SuperTiled2Unity.SuperObject
+    11400146: _MapPrfab/demo-2/Collision Mask/Object_23/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400148: _MapPrfab/demo-2/Collision Mask/Object_23/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400150: _MapPrfab/demo-2/Collision Mask/Object_24/MonoBehaviour-SuperTiled2Unity.SuperObject
+    11400152: _MapPrfab/demo-2/Collision Mask/Object_24/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400154: _MapPrfab/demo-2/Collision Mask/Object_24/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400156: _MapPrfab/demo-2/Collision Mask/Object_25/MonoBehaviour-SuperTiled2Unity.SuperObject
+    11400158: _MapPrfab/demo-2/Collision Mask/Object_25/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400160: _MapPrfab/demo-2/Collision Mask/Object_25/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400162: _MapPrfab/demo-2/Collision Mask/Object_26/MonoBehaviour-SuperTiled2Unity.SuperObject
+    11400164: _MapPrfab/demo-2/Collision Mask/Object_26/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400166: _MapPrfab/demo-2/Collision Mask/Object_26/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400168: _MapPrfab/demo-2/Collision Mask/Object_27/MonoBehaviour-SuperTiled2Unity.SuperObject
+    11400170: _MapPrfab/demo-2/Collision Mask/Object_27/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400172: _MapPrfab/demo-2/Collision Mask/Object_27/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400174: _MapPrfab/demo-2/Collision Mask/Object_28/MonoBehaviour-SuperTiled2Unity.SuperObject
+    11400176: _MapPrfab/demo-2/Collision Mask/Object_28/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400178: _MapPrfab/demo-2/Collision Mask/Object_28/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400180: _MapPrfab/demo-2/Collision Mask/Object_29/MonoBehaviour-SuperTiled2Unity.SuperObject
+    11400182: _MapPrfab/demo-2/Collision Mask/Object_29/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400184: _MapPrfab/demo-2/Collision Mask/Object_29/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400186: _MapPrfab/demo-2/Collision Mask/Object_30/MonoBehaviour-SuperTiled2Unity.SuperObject
+    11400188: _MapPrfab/demo-2/Doors/MonoBehaviour-SuperTiled2Unity.SuperTileLayer
+    11400190: _MapPrfab/demo-2/Doors/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400192: _MapPrfab/demo-2/Grass/MonoBehaviour-SuperTiled2Unity.SuperTileLayer
+    11400194: _MapPrfab/demo-2/Grass/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400196: _MapPrfab/demo-2/Lantaarns Day/MonoBehaviour-SuperTiled2Unity.SuperTileLayer
+    11400198: _MapPrfab/demo-2/Lantaarns Day/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400200: _MapPrfab/demo-2/Lantaarns Night/MonoBehaviour-SuperTiled2Unity.SuperTileLayer
+    11400202: _MapPrfab/demo-2/Lantaarns Night/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400204: _MapPrfab/demo-2/World Objects/MonoBehaviour-SuperTiled2Unity.SuperTileLayer
+    11400206: _MapPrfab/demo-2/World Objects/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400208: _superAsset
+    11400210: _MapPrfab/demo-2/Collision Mask/Object_30/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400212: _MapPrfab/demo-2/Collision Mask/Object_30/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400214: _MapPrfab/demo-2/Collision Mask/Object_31/MonoBehaviour-SuperTiled2Unity.SuperObject
+    11400216: _MapPrfab/demo-2/Collision Mask/Object_31/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400218: _MapPrfab/demo-2/Collision Mask/Object_31/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400220: _MapPrfab/demo-2/Collision Mask/Object_32/MonoBehaviour-SuperTiled2Unity.SuperObject
+    11400222: _MapPrfab/demo-2/Collision Mask/Object_32/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400224: _MapPrfab/demo-2/Collision Mask/Object_32/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400226: _MapPrfab/demo-2/Collision Mask/Object_33/MonoBehaviour-SuperTiled2Unity.SuperObject
+    11400228: _MapPrfab/demo-2/Collision Mask/Object_33/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400230: _MapPrfab/demo-2/Collision Mask/Object_33/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400232: _MapPrfab/demo-2/Collision Mask/Object_34/MonoBehaviour-SuperTiled2Unity.SuperObject
+    11400234: _MapPrfab/demo-2/Collision Mask/Object_34/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400236: _MapPrfab/demo-2/Collision Mask/Object_34/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400238: _MapPrfab/demo-2/Collision Mask/Object_35/MonoBehaviour-SuperTiled2Unity.SuperObject
+    11400240: _MapPrfab/demo-2/Collision Mask/Object_35/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400242: _MapPrfab/demo-2/Collision Mask/Object_35/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400244: _MapPrfab/demo-2/Collision Mask/Object_36/MonoBehaviour-SuperTiled2Unity.SuperObject
+    11400246: _MapPrfab/demo-2/Collision Mask/Object_36/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400248: _MapPrfab/demo-2/Collision Mask/Object_36/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400250: _MapPrfab/demo-2/Collision Mask/Object_37/MonoBehaviour-SuperTiled2Unity.SuperObject
+    11400252: _MapPrfab/demo-2/Collision Mask/Object_37/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400254: _MapPrfab/demo-2/Collision Mask/Object_37/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400256: _MapPrfab/demo-2/Collision Mask/Object_38/MonoBehaviour-SuperTiled2Unity.SuperObject
+    11400258: _MapPrfab/demo-2/Collision Mask/Object_38/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400260: _MapPrfab/demo-2/Collision Mask/Object_38/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400262: _MapPrfab/demo-2/Collision Mask/Object_39/MonoBehaviour-SuperTiled2Unity.SuperObject
+    11400264: _MapPrfab/demo-2/Collision Mask/Object_39/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400266: _MapPrfab/demo-2/Collision Mask/Object_39/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400268: _MapPrfab/demo-2/Collision Mask/Object_40/MonoBehaviour-SuperTiled2Unity.SuperObject
+    11400270: _MapPrfab/demo-2/Collision Mask/Object_40/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400272: _MapPrfab/demo-2/Collision Mask/Object_40/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400274: _MapPrfab/demo-2/Collision Mask/Object_41/MonoBehaviour-SuperTiled2Unity.SuperObject
+    11400276: _MapPrfab/demo-2/Collision Mask/Object_41/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400278: _MapPrfab/demo-2/Collision Mask/Object_41/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400280: _MapPrfab/demo-2/Collision Mask/Object_42/MonoBehaviour-SuperTiled2Unity.SuperObject
+    11400282: _MapPrfab/demo-2/Collision Mask/Object_42/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400284: _MapPrfab/demo-2/Collision Mask/Object_42/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400286: _MapPrfab/demo-2/Collision Mask/Object_43/MonoBehaviour-SuperTiled2Unity.SuperObject
+    11400288: _MapPrfab/demo-2/Collision Mask/Object_43/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400290: _MapPrfab/demo-2/Collision Mask/Object_43/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400292: _MapPrfab/demo-2/Collision Mask/Object_44/MonoBehaviour-SuperTiled2Unity.SuperObject
+    11400294: _MapPrfab/demo-2/Collision Mask/Object_44/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400296: _MapPrfab/demo-2/Collision Mask/Object_44/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400298: _MapPrfab/demo-2/Collision Mask/Object_45/MonoBehaviour-SuperTiled2Unity.SuperObject
+    11400300: _MapPrfab/demo-2/Collision Mask/Object_45/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400302: _MapPrfab/demo-2/Collision Mask/Object_45/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400304: _MapPrfab/demo-2/Collision Mask/Object_46/MonoBehaviour-SuperTiled2Unity.SuperObject
+    11400306: _MapPrfab/demo-2/Collision Mask/Object_46/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400308: _MapPrfab/demo-2/Collision Mask/Object_46/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400310: _MapPrfab/demo-2/Collision Mask/Object_47/MonoBehaviour-SuperTiled2Unity.SuperObject
+    11400312: _MapPrfab/demo-2/Collision Mask/Object_47/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400314: _MapPrfab/demo-2/Collision Mask/Object_47/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400316: _MapPrfab/demo-2/Collision Mask/Object_48/MonoBehaviour-SuperTiled2Unity.SuperObject
+    11400318: _MapPrfab/demo-2/Collision Mask/Object_48/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400320: _MapPrfab/demo-2/Collision Mask/Object_48/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400322: _MapPrfab/demo-2/Collision Mask/Object_49/MonoBehaviour-SuperTiled2Unity.SuperObject
+    11400324: _MapPrfab/demo-2/Collision Mask/Object_49/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400326: _MapPrfab/demo-2/Collision Mask/Object_49/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400328: _MapPrfab/demo-2/Collision Mask/Object_50/MonoBehaviour-SuperTiled2Unity.SuperObject
+    11400330: _MapPrfab/demo-2/Collision Mask/Object_50/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400332: _MapPrfab/demo-2/Collision Mask/Object_50/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400334: _MapPrfab/demo-2/Collision Mask/Object_51/MonoBehaviour-SuperTiled2Unity.SuperObject
+    11400336: _MapPrfab/demo-2/Collision Mask/Object_51/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400338: _MapPrfab/demo-2/Collision Mask/Object_51/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    11400340: _MapPrfab/demo-2/Collision Mask/Object_52/MonoBehaviour-SuperTiled2Unity.SuperObject
+    11400342: _MapPrfab/demo-2/Collision Mask/Object_52/MonoBehaviour-SuperTiled2Unity.SuperColliderComponent
+    11400344: _MapPrfab/demo-2/Collision Mask/Object_52/MonoBehaviour-SuperTiled2Unity.SuperCustomProperties
+    100100000: _MapPrfab
+    2569400265252428796: _MapPrfab/demo-2/Grid
+    3664157343022684176: _MapPrfab/demo-2/All/TilemapRenderer
+    3664157343022684180: _MapPrfab/demo-2/Doors/TilemapRenderer
+    3664157343022684182: _MapPrfab/demo-2/Grass/TilemapRenderer
+    3664157343022684184: _MapPrfab/demo-2/Lantaarns Day/TilemapRenderer
+    3664157343022684186: _MapPrfab/demo-2/Lantaarns Night/TilemapRenderer
+    3664157343022684188: _MapPrfab/demo-2/World Objects/TilemapRenderer
+    8195094279510102542: _MapPrfab/demo-2/All/Tilemap
+    8195094279510102546: _MapPrfab/demo-2/Doors/Tilemap
+    8195094279510102548: _MapPrfab/demo-2/Grass/Tilemap
+    8195094279510102550: _MapPrfab/demo-2/Lantaarns Day/Tilemap
+    8195094279510102552: _MapPrfab/demo-2/Lantaarns Night/Tilemap
+    8195094279510102554: _MapPrfab/demo-2/World Objects/Tilemap
+  externalObjects: {}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
+  script: {fileID: 11500000, guid: 1fa25d03934ea624a82bf2fcee6f0873, type: 3}
+  errors:
+  - Could not find tile 1058. Your imported map will have holes until this is fixed.
+  warnings: []
+  missingSortingLayers:
+  - WorldObjects
+  missingLayers: []
+  pixelsPerUnit: 100
+  edgesPerEllipse: 32
+  tilesAsObjects: 0
+  importSorting: 0
+  isIsometric: 0
+  customImporterClassName: 
+  internalTilesets: []
