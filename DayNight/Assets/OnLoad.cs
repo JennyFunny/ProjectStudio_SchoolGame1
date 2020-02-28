@@ -12,15 +12,15 @@ public class OnLoad : MonoBehaviour
     {
         player = FindObjectOfType<PlayerMovement>();
         Scene scene = SceneManager.GetActiveScene();
-        if (scene.name == "Route1")
+    /*    if (scene.name == "Route1")
         {
             player.canMove = true;
         }
         else
         {
-            player.canMove = false;
+          
         }
-        print(player.GetComponent<PlayerMovement>().canMove);
+        print(player.GetComponent<PlayerMovement>().canMove);*/
     }
 
     // Update is called once per frame

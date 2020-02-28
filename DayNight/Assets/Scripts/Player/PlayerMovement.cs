@@ -42,6 +42,14 @@ public class PlayerMovement : MonoBehaviour
 
     private void Update()
     {
+        if (Input.GetKey(KeyCode.Z))
+        {
+            speed += 0.1f;
+        }
+        if (Input.GetKey(KeyCode.X))
+        {
+            speed = 1f;
+        }
         if (canMove)
         {
             change.x = Input.GetAxisRaw("Horizontal");
