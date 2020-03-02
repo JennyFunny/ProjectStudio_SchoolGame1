@@ -62,7 +62,6 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Assets\OnLoad.cs" />
     <Compile Include="Assets\Scripts\Citys and routes\Blockade.cs" />
     <Compile Include="Assets\Scripts\Citys and routes\BlockadeManager.cs" />
     <Compile Include="Assets\Scripts\Citys and routes\Lightpost.cs" />
@@ -80,6 +79,7 @@
     <Compile Include="Assets\Scripts\Game Managment and Visualization\Questmanager.cs" />
     <Compile Include="Assets\Scripts\Game Managment and Visualization\Weather.cs" />
     <Compile Include="Assets\Scripts\Mainmenu.cs" />
+    <Compile Include="Assets\Scripts\OnLoad.cs" />
     <Compile Include="Assets\Scripts\Player\PlayerMovement.cs" />
     <Compile Include="Assets\Scripts\Player\PlayerStartPoint.cs" />
     <Compile Include="Assets\Scripts\Player\SmoothCamera.cs" />
