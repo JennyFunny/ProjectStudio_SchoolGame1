@@ -54,7 +54,7 @@ LightmapSettings:
     m_EnableBakedLightmaps: 0
     m_EnableRealtimeLightmaps: 0
   m_LightmapEditorSettings:
-    serializedVersion: 10
+    serializedVersion: 12
     m_Resolution: 2
     m_BakeResolution: 40
     m_AtlasSize: 1024
@@ -62,6 +62,7 @@ LightmapSettings:
     m_AOMaxDistance: 1
     m_CompAOExponent: 1
     m_CompAOExponentDirect: 0
+    m_ExtractAmbientOcclusion: 0
     m_Padding: 2
     m_LightmapParameters: {fileID: 0}
     m_LightmapsBakeMode: 1
@@ -76,10 +77,16 @@ LightmapSettings:
     m_PVRDirectSampleCount: 32
     m_PVRSampleCount: 500
     m_PVRBounces: 2
+    m_PVREnvironmentSampleCount: 500
+    m_PVREnvironmentReferencePointCount: 2048
+    m_PVRFilteringMode: 2
+    m_PVRDenoiserTypeDirect: 0
+    m_PVRDenoiserTypeIndirect: 0
+    m_PVRDenoiserTypeAO: 0
     m_PVRFilterTypeDirect: 0
     m_PVRFilterTypeIndirect: 0
     m_PVRFilterTypeAO: 0
-    m_PVRFilteringMode: 1
+    m_PVREnvironmentMIS: 0
     m_PVRCulling: 1
     m_PVRFilteringGaussRadiusDirect: 1
     m_PVRFilteringGaussRadiusIndirect: 5
@@ -87,7 +94,9 @@ LightmapSettings:
     m_PVRFilteringAtrousPositionSigmaDirect: 0.5
     m_PVRFilteringAtrousPositionSigmaIndirect: 2
     m_PVRFilteringAtrousPositionSigmaAO: 1
-    m_ShowResolutionOverlay: 1
+    m_ExportTrainingData: 0
+    m_TrainingDataDestination: TrainingData
+    m_LightProbeSampleCountMultiplier: 4
   m_LightingDataAsset: {fileID: 0}
   m_UseShadowmask: 1
 --- !u!196 &4
@@ -139,7 +148,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 150236366}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: 1077351063, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+  m_Script: {fileID: 11500000, guid: 4f231c4fb786f3946a6b90b886c48677, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   m_HorizontalAxis: Horizontal
@@ -158,7 +167,7 @@ MonoBehaviour:
   m_GameObject: {fileID: 150236366}
   m_Enabled: 1
   m_EditorHideFlags: 0
-  m_Script: {fileID: -619905303, guid: f70555f144d8491a825f0804e09c671c, type: 3}
+  m_Script: {fileID: 11500000, guid: 76c392e42b5098c458856cdf6ecaaaa1, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
   m_FirstSelected: {fileID: 0}
@@ -185,10 +194,15 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 4560719845848436388, guid: 9ed967019061b75469ce01588f362061,
+    - target: {fileID: 973600670421574350, guid: 9ed967019061b75469ce01588f362061,
         type: 3}
-      propertyPath: m_Name
-      value: NPC (2)
+      propertyPath: dialogueLines.Array.data[0]
+      value: Als Game Artist werk je veel in Photoshop.
+      objectReference: {fileID: 0}
+    - target: {fileID: 973600670421574350, guid: 9ed967019061b75469ce01588f362061,
+        type: 3}
+      propertyPath: dialogueLines.Array.data[1]
+      value: Niet alleen om te tekenen, maar ook voor textures voor je 3D modellen!
       objectReference: {fileID: 0}
     - target: {fileID: 4560719845848436384, guid: 9ed967019061b75469ce01588f362061,
         type: 3}
@@ -245,6 +259,11 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4560719845848436388, guid: 9ed967019061b75469ce01588f362061,
+        type: 3}
+      propertyPath: m_Name
+      value: NPC (2)
+      objectReference: {fileID: 0}
     - target: {fileID: 4560719845848436391, guid: 9ed967019061b75469ce01588f362061,
         type: 3}
       propertyPath: walkVertical
@@ -270,16 +289,6 @@ PrefabInstance:
       propertyPath: dernAnim
       value: 
       objectReference: {fileID: 9100000, guid: 76ff4824564b120479bbfce02e41c5f5, type: 2}
-    - target: {fileID: 973600670421574350, guid: 9ed967019061b75469ce01588f362061,
-        type: 3}
-      propertyPath: dialogueLines.Array.data[0]
-      value: Als Game Artist werk je veel in Photoshop.
-      objectReference: {fileID: 0}
-    - target: {fileID: 973600670421574350, guid: 9ed967019061b75469ce01588f362061,
-        type: 3}
-      propertyPath: dialogueLines.Array.data[1]
-      value: Niet alleen om te tekenen, maar ook voor textures voor je 3D modellen!
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9ed967019061b75469ce01588f362061, type: 3}
 --- !u!1001 &262078592
@@ -507,11 +516,6 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 3019435518963728062, guid: 8f447884b219c674a89a05c92848ec2d,
-        type: 3}
-      propertyPath: m_Name
-      value: Camera (3)
-      objectReference: {fileID: 0}
     - target: {fileID: 3019435518963728061, guid: 8f447884b219c674a89a05c92848ec2d,
         type: 3}
       propertyPath: m_LocalPosition.x
@@ -567,6 +571,11 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3019435518963728062, guid: 8f447884b219c674a89a05c92848ec2d,
+        type: 3}
+      propertyPath: m_Name
+      value: Camera (3)
+      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 8f447884b219c674a89a05c92848ec2d, type: 3}
 --- !u!1001 &659706930
@@ -576,10 +585,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 8930690365994168806, guid: a20f4948b12eb9540b8bdc9fee8e114f,
+    - target: {fileID: 794426876872561998, guid: a20f4948b12eb9540b8bdc9fee8e114f,
         type: 3}
-      propertyPath: m_Name
-      value: Snow Particles
+      propertyPath: EmissionModule.enabled
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7265255098722316826, guid: a20f4948b12eb9540b8bdc9fee8e114f,
         type: 3}
@@ -636,10 +645,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 794426876872561998, guid: a20f4948b12eb9540b8bdc9fee8e114f,
+    - target: {fileID: 8930690365994168806, guid: a20f4948b12eb9540b8bdc9fee8e114f,
         type: 3}
-      propertyPath: EmissionModule.enabled
-      value: 0
+      propertyPath: m_Name
+      value: Snow Particles
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: a20f4948b12eb9540b8bdc9fee8e114f, type: 3}
@@ -881,6 +890,22 @@ BoxCollider2D:
   serializedVersion: 2
   m_Size: {x: 0.24300385, y: 0.2573383}
   m_EdgeRadius: 0
+--- !u!114 &711553322
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 711553319}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b39986e19bd104376a35db0ebacef910, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  dialogue: 
+  dialogueLines:
+  - hello there
+  isYes: 0
 --- !u!114 &711553325
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -910,10 +935,15 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 4560719845848436388, guid: 9ed967019061b75469ce01588f362061,
+    - target: {fileID: 973600670421574350, guid: 9ed967019061b75469ce01588f362061,
         type: 3}
-      propertyPath: m_Name
-      value: NPC
+      propertyPath: dialogueLines.Array.data[0]
+      value: 'Op zoek naar een tekentablet? '
+      objectReference: {fileID: 0}
+    - target: {fileID: 973600670421574350, guid: 9ed967019061b75469ce01588f362061,
+        type: 3}
+      propertyPath: dialogueLines.Array.data[1]
+      value: 'Wacom is een goed merk! Je kan het kopen bij de Artist Centre. '
       objectReference: {fileID: 0}
     - target: {fileID: 4560719845848436384, guid: 9ed967019061b75469ce01588f362061,
         type: 3}
@@ -970,6 +1000,11 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4560719845848436388, guid: 9ed967019061b75469ce01588f362061,
+        type: 3}
+      propertyPath: m_Name
+      value: NPC
+      objectReference: {fileID: 0}
     - target: {fileID: 4560719845848436391, guid: 9ed967019061b75469ce01588f362061,
         type: 3}
       propertyPath: walkHorizontal
@@ -995,16 +1030,6 @@ PrefabInstance:
       propertyPath: dernAnim
       value: 
       objectReference: {fileID: 9100000, guid: 76ff4824564b120479bbfce02e41c5f5, type: 2}
-    - target: {fileID: 973600670421574350, guid: 9ed967019061b75469ce01588f362061,
-        type: 3}
-      propertyPath: dialogueLines.Array.data[0]
-      value: 'Op zoek naar een tekentablet? '
-      objectReference: {fileID: 0}
-    - target: {fileID: 973600670421574350, guid: 9ed967019061b75469ce01588f362061,
-        type: 3}
-      propertyPath: dialogueLines.Array.data[1]
-      value: 'Wacom is een goed merk! Je kan het kopen bij de Artist Centre. '
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9ed967019061b75469ce01588f362061, type: 3}
 --- !u!1 &829031700
@@ -1039,6 +1064,7 @@ SpriteRenderer:
   m_MotionVectors: 1
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -1050,6 +1076,7 @@ SpriteRenderer:
   m_ProbeAnchor: {fileID: 0}
   m_LightProbeVolumeOverride: {fileID: 0}
   m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
   m_PreserveUVs: 0
   m_IgnoreNormalsForChartDetection: 0
   m_ImportantGI: 0
@@ -1349,6 +1376,16 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3664157343022684176, guid: d7e7ca028e33ef748ad659425dbe5d4d,
+        type: 3}
+      propertyPath: m_SortingOrder
+      value: 8
+      objectReference: {fileID: 0}
+    - target: {fileID: 3664157343022684176, guid: d7e7ca028e33ef748ad659425dbe5d4d,
+        type: 3}
+      propertyPath: m_Materials.Array.data[0]
+      value: 
+      objectReference: {fileID: 2100000, guid: fc0f794ed1a22be47b31fc3a3e08330c, type: 2}
     - target: {fileID: 3664157343022684178, guid: d7e7ca028e33ef748ad659425dbe5d4d,
         type: 3}
       propertyPath: m_Materials.Array.data[0]
@@ -1390,16 +1427,6 @@ PrefabInstance:
       value: 8
       objectReference: {fileID: 0}
     - target: {fileID: 3664157343022684186, guid: d7e7ca028e33ef748ad659425dbe5d4d,
-        type: 3}
-      propertyPath: m_Materials.Array.data[0]
-      value: 
-      objectReference: {fileID: 2100000, guid: fc0f794ed1a22be47b31fc3a3e08330c, type: 2}
-    - target: {fileID: 3664157343022684176, guid: d7e7ca028e33ef748ad659425dbe5d4d,
-        type: 3}
-      propertyPath: m_SortingOrder
-      value: 8
-      objectReference: {fileID: 0}
-    - target: {fileID: 3664157343022684176, guid: d7e7ca028e33ef748ad659425dbe5d4d,
         type: 3}
       propertyPath: m_Materials.Array.data[0]
       value: 
@@ -1558,22 +1585,22 @@ PrefabInstance:
       propertyPath: m_IsActive
       value: 1
       objectReference: {fileID: 0}
-    - target: {fileID: 951809331995793645, guid: 1a1102df22f9f074cb682e3a0d0f3d51,
+    - target: {fileID: 951809331526625605, guid: 1a1102df22f9f074cb682e3a0d0f3d51,
         type: 3}
       propertyPath: m_havePropertiesChanged
       value: 1
       objectReference: {fileID: 0}
-    - target: {fileID: 951809331995793645, guid: 1a1102df22f9f074cb682e3a0d0f3d51,
+    - target: {fileID: 951809331526625605, guid: 1a1102df22f9f074cb682e3a0d0f3d51,
         type: 3}
       propertyPath: m_isInputParsingRequired
       value: 1
       objectReference: {fileID: 0}
-    - target: {fileID: 951809331526625605, guid: 1a1102df22f9f074cb682e3a0d0f3d51,
+    - target: {fileID: 951809331995793645, guid: 1a1102df22f9f074cb682e3a0d0f3d51,
         type: 3}
       propertyPath: m_havePropertiesChanged
       value: 1
       objectReference: {fileID: 0}
-    - target: {fileID: 951809331526625605, guid: 1a1102df22f9f074cb682e3a0d0f3d51,
+    - target: {fileID: 951809331995793645, guid: 1a1102df22f9f074cb682e3a0d0f3d51,
         type: 3}
       propertyPath: m_isInputParsingRequired
       value: 1
@@ -1856,10 +1883,15 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 4560719845848436388, guid: 9ed967019061b75469ce01588f362061,
+    - target: {fileID: 973600670421574350, guid: 9ed967019061b75469ce01588f362061,
         type: 3}
-      propertyPath: m_Name
-      value: NPC Bloem
+      propertyPath: dialogueLines.Array.data[0]
+      value: Hallo
+      objectReference: {fileID: 0}
+    - target: {fileID: 973600670421574350, guid: 9ed967019061b75469ce01588f362061,
+        type: 3}
+      propertyPath: dialogueLines.Array.data[1]
+      value: Hele mooie bloemen hier!
       objectReference: {fileID: 0}
     - target: {fileID: 4560719845848436384, guid: 9ed967019061b75469ce01588f362061,
         type: 3}
@@ -1916,6 +1948,17 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4560719845848436385, guid: 9ed967019061b75469ce01588f362061,
+        type: 3}
+      propertyPath: m_Sprite
+      value: 
+      objectReference: {fileID: 21300000, guid: a4d99513835b70841ba4329c079a2b40,
+        type: 3}
+    - target: {fileID: 4560719845848436388, guid: 9ed967019061b75469ce01588f362061,
+        type: 3}
+      propertyPath: m_Name
+      value: NPC Bloem
+      objectReference: {fileID: 0}
     - target: {fileID: 4560719845848436391, guid: 9ed967019061b75469ce01588f362061,
         type: 3}
       propertyPath: stepsVertical
@@ -1941,26 +1984,10 @@ PrefabInstance:
       propertyPath: walkHorizontal
       value: 0
       objectReference: {fileID: 0}
-    - target: {fileID: 4560719845848436385, guid: 9ed967019061b75469ce01588f362061,
-        type: 3}
-      propertyPath: m_Sprite
-      value: 
-      objectReference: {fileID: 21300000, guid: a4d99513835b70841ba4329c079a2b40,
-        type: 3}
     - target: {fileID: 6711320466372742773, guid: 9ed967019061b75469ce01588f362061,
         type: 3}
       propertyPath: m_Enabled
       value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 973600670421574350, guid: 9ed967019061b75469ce01588f362061,
-        type: 3}
-      propertyPath: dialogueLines.Array.data[0]
-      value: Hallo
-      objectReference: {fileID: 0}
-    - target: {fileID: 973600670421574350, guid: 9ed967019061b75469ce01588f362061,
-        type: 3}
-      propertyPath: dialogueLines.Array.data[1]
-      value: Hele mooie bloemen hier!
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9ed967019061b75469ce01588f362061, type: 3}
@@ -2059,10 +2086,16 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 4560719845848436388, guid: 9ed967019061b75469ce01588f362061,
+    - target: {fileID: 973600670421574350, guid: 9ed967019061b75469ce01588f362061,
         type: 3}
-      propertyPath: m_Name
-      value: NPC (4)
+      propertyPath: dialogueLines.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 973600670421574350, guid: 9ed967019061b75469ce01588f362061,
+        type: 3}
+      propertyPath: dialogueLines.Array.data[0]
+      value: Blender is een 3D programma waarin je 3D modellen kan maken voor een
+        game!
       objectReference: {fileID: 0}
     - target: {fileID: 4560719845848436384, guid: 9ed967019061b75469ce01588f362061,
         type: 3}
@@ -2119,6 +2152,11 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4560719845848436388, guid: 9ed967019061b75469ce01588f362061,
+        type: 3}
+      propertyPath: m_Name
+      value: NPC (4)
+      objectReference: {fileID: 0}
     - target: {fileID: 4560719845848436391, guid: 9ed967019061b75469ce01588f362061,
         type: 3}
       propertyPath: walkVertical
@@ -2144,17 +2182,6 @@ PrefabInstance:
       propertyPath: dernAnim
       value: 
       objectReference: {fileID: 9100000, guid: 76ff4824564b120479bbfce02e41c5f5, type: 2}
-    - target: {fileID: 973600670421574350, guid: 9ed967019061b75469ce01588f362061,
-        type: 3}
-      propertyPath: dialogueLines.Array.size
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 973600670421574350, guid: 9ed967019061b75469ce01588f362061,
-        type: 3}
-      propertyPath: dialogueLines.Array.data[0]
-      value: Blender is een 3D programma waarin je 3D modellen kan maken voor een
-        game!
-      objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9ed967019061b75469ce01588f362061, type: 3}
 --- !u!1001 &1626107194
@@ -2783,10 +2810,10 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 9158409833178809118, guid: 058b96836972a6c4a9f8148e4ee702a1,
+    - target: {fileID: 9158409833178809116, guid: 058b96836972a6c4a9f8148e4ee702a1,
         type: 3}
-      propertyPath: m_Name
-      value: Fog Particles
+      propertyPath: EmissionModule.enabled
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 9158409833178809117, guid: 058b96836972a6c4a9f8148e4ee702a1,
         type: 3}
@@ -2843,10 +2870,10 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 89.99999
       objectReference: {fileID: 0}
-    - target: {fileID: 9158409833178809116, guid: 058b96836972a6c4a9f8148e4ee702a1,
+    - target: {fileID: 9158409833178809118, guid: 058b96836972a6c4a9f8148e4ee702a1,
         type: 3}
-      propertyPath: EmissionModule.enabled
-      value: 0
+      propertyPath: m_Name
+      value: Fog Particles
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 058b96836972a6c4a9f8148e4ee702a1, type: 3}
@@ -3019,10 +3046,30 @@ PrefabInstance:
   m_Modification:
     m_TransformParent: {fileID: 0}
     m_Modifications:
-    - target: {fileID: 4560719845848436388, guid: 9ed967019061b75469ce01588f362061,
+    - target: {fileID: 973600670421574350, guid: 9ed967019061b75469ce01588f362061,
         type: 3}
-      propertyPath: m_Name
-      value: NPC (1)
+      propertyPath: dialogueLines.Array.size
+      value: 1
+      objectReference: {fileID: 0}
+    - target: {fileID: 973600670421574350, guid: 9ed967019061b75469ce01588f362061,
+        type: 3}
+      propertyPath: dialogueLines.Array.data[0]
+      value: Ik zit wel lekker hier
+      objectReference: {fileID: 0}
+    - target: {fileID: 973600670421574350, guid: 9ed967019061b75469ce01588f362061,
+        type: 3}
+      propertyPath: dialogueLines.Array.data[1]
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 2369387617401746592, guid: 9ed967019061b75469ce01588f362061,
+        type: 3}
+      propertyPath: m_Offset.y
+      value: -0.061783597
+      objectReference: {fileID: 0}
+    - target: {fileID: 2369387617401746592, guid: 9ed967019061b75469ce01588f362061,
+        type: 3}
+      propertyPath: m_Size.y
+      value: 0.076432794
       objectReference: {fileID: 0}
     - target: {fileID: 4560719845848436384, guid: 9ed967019061b75469ce01588f362061,
         type: 3}
@@ -3079,6 +3126,16 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 4560719845848436385, guid: 9ed967019061b75469ce01588f362061,
+        type: 3}
+      propertyPath: m_SortingOrder
+      value: 4
+      objectReference: {fileID: 0}
+    - target: {fileID: 4560719845848436388, guid: 9ed967019061b75469ce01588f362061,
+        type: 3}
+      propertyPath: m_Name
+      value: NPC (1)
+      objectReference: {fileID: 0}
     - target: {fileID: 4560719845848436391, guid: 9ed967019061b75469ce01588f362061,
         type: 3}
       propertyPath: walkHorizontal
@@ -3088,36 +3145,6 @@ PrefabInstance:
         type: 3}
       propertyPath: walkVertical
       value: 0
-      objectReference: {fileID: 0}
-    - target: {fileID: 4560719845848436385, guid: 9ed967019061b75469ce01588f362061,
-        type: 3}
-      propertyPath: m_SortingOrder
-      value: 4
-      objectReference: {fileID: 0}
-    - target: {fileID: 973600670421574350, guid: 9ed967019061b75469ce01588f362061,
-        type: 3}
-      propertyPath: dialogueLines.Array.size
-      value: 1
-      objectReference: {fileID: 0}
-    - target: {fileID: 973600670421574350, guid: 9ed967019061b75469ce01588f362061,
-        type: 3}
-      propertyPath: dialogueLines.Array.data[0]
-      value: Ik zit wel lekker hier
-      objectReference: {fileID: 0}
-    - target: {fileID: 973600670421574350, guid: 9ed967019061b75469ce01588f362061,
-        type: 3}
-      propertyPath: dialogueLines.Array.data[1]
-      value: 
-      objectReference: {fileID: 0}
-    - target: {fileID: 2369387617401746592, guid: 9ed967019061b75469ce01588f362061,
-        type: 3}
-      propertyPath: m_Offset.y
-      value: -0.061783597
-      objectReference: {fileID: 0}
-    - target: {fileID: 2369387617401746592, guid: 9ed967019061b75469ce01588f362061,
-        type: 3}
-      propertyPath: m_Size.y
-      value: 0.076432794
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 9ed967019061b75469ce01588f362061, type: 3}
@@ -3248,6 +3275,7 @@ SpriteRenderer:
   m_MotionVectors: 1
   m_LightProbeUsage: 1
   m_ReflectionProbeUsage: 1
+  m_RayTracingMode: 0
   m_RenderingLayerMask: 1
   m_RendererPriority: 0
   m_Materials:
@@ -3259,6 +3287,7 @@ SpriteRenderer:
   m_ProbeAnchor: {fileID: 0}
   m_LightProbeVolumeOverride: {fileID: 0}
   m_ScaleInLightmap: 1
+  m_ReceiveGI: 1
   m_PreserveUVs: 0
   m_IgnoreNormalsForChartDetection: 0
   m_ImportantGI: 0

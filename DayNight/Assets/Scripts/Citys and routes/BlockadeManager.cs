@@ -6,9 +6,10 @@ using UnityEngine.SceneManagement;
 public class BlockadeManager : MonoBehaviour
 {
 
-    static bool town1 = false;
-    static bool town2 = false;
-
+    public static bool town1 = false;
+    public static bool town2 = false;
+    public bool route2 = false;
+    public GameObject gm;
     Scene currentscene;
     // Start is called before the first frame update
     void Start()
@@ -19,14 +20,24 @@ public class BlockadeManager : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        gm = GameObject.Find("GameManager");
         currentscene = SceneManager.GetActiveScene();
         if (town1 && currentscene.name == "Tiled")
         {
-            Destroy(FindObjectOfType<Blockade>().gameObject);
-        }
+            if (town1 == true)
+            {
+                Destroy(FindObjectOfType<Blockade>().gameObject);
+                town1 = false;
+            }
+        }   
         if(town2 && currentscene.name == "ArtistTown")
         {
             Destroy(FindObjectOfType<Blockade>().gameObject);
+        }
+        if (gm.GetComponent<GameManager>().gerard == true && currentscene.name == "Route2")
+        {
+
+          Destroy(GameObject.Find("blockade"));
         }
     }
 

@@ -42,6 +42,6 @@ EditorBuildSettings:
     path: Assets/Scenes/Quiz.unity
     guid: 69dcdc6ab72f6bb43a0397302ebe7eff
   - enabled: 1
-    path: Assets/Scenes/Routes/Route1 - Copy.unity
+    path: Assets/Scenes/Routes/Route2.unity
     guid: ed8fb3bf72eb1bd46b947e23f1364fad
   m_configObjects: {}

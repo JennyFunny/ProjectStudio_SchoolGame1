@@ -14,13 +14,17 @@ public class GameManager : MonoBehaviour
     [HideInInspector]
     public static bool urenverantwoordingArtistTown = false;
 
+    public bool gerard;
+
     private static GameManager Instance;
+    public GameObject gm;
 
     [SerializeField]
     float timeSpeed = 1;
 
     void Awake()
     {
+        gm = GameObject.Find("GameManager");
         DontDestroyOnLoad(this);
 
         if (Instance == null)
@@ -45,6 +49,11 @@ public class GameManager : MonoBehaviour
         }
 
         Scene currentScene = SceneManager.GetActiveScene();
+        if (currentScene.name == "Gerard")
+        {
+            gerard = true;//haald de blockade 
+           
+        }
         if (urenverantwoordingPalletTown && currentScene.name == "Tiled")
         {
             GameObject.FindObjectOfType<Blockade>().gameObject.SetActive(false);

@@ -6,6 +6,7 @@ using UnityEngine.SceneManagement;
 public class OnLoad : MonoBehaviour
 {
     PlayerMovement player;
+    
     static Vector3 lastPos;
     // Start is called before the first frame update
     void Start()

@@ -4,16 +4,16 @@ TextureImporter:
   internalIDToNameTable:
   - first:
       213: 21300000
-    second: splash_1
+    second: splash_0
   - first:
       213: 21300002
-    second: splash_2
+    second: splash_1
   - first:
       213: 21300004
-    second: splash_3
+    second: splash_2
   - first:
       213: 21300006
-    second: splash_0
+    second: splash_3
   externalObjects: {}
   serializedVersion: 10
   mipmaps:
@@ -125,7 +125,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 369ceec20c94f6547a1cf2fa64bb0a49
-      internalID: 21300006
+      internalID: 21300000
       vertices: []
       indices: 
       edges: []
@@ -146,7 +146,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: df9b0387fec490c4abc3ce897b8b09ff
-      internalID: 21300000
+      internalID: 21300002
       vertices: []
       indices: 
       edges: []
@@ -167,7 +167,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: c874d6b4c408c814280cdedf5cca20e6
-      internalID: 21300002
+      internalID: 21300004
       vertices: []
       indices: 
       edges: []
@@ -188,7 +188,7 @@ TextureImporter:
       tessellationDetail: -1
       bones: []
       spriteID: 83d39fa2417929945a62984f4d6d6bb9
-      internalID: 21300004
+      internalID: 21300006
       vertices: []
       indices: 
       edges: []

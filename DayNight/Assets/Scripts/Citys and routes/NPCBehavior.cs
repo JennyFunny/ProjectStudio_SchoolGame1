@@ -161,25 +161,29 @@ public class NPCBehavior : MonoBehaviour {
     {
         if (canTalk)
         {
+            Scene currentScene = SceneManager.GetActiveScene();
             if (Input.GetKey(KeyCode.E))
             {
-                if (this.gameObject.tag == "Dern")
+         
+                    if (this.gameObject.tag == "Dern")
+                    {
+                        SceneManager.LoadScene("Dern");
+                 }
+                if (this.gameObject.tag == "Jasper")
                 {
-                    SceneManager.LoadScene(8);
+                    SceneManager.LoadScene("Jasper");
                 }
-                if(this.gameObject.tag == "Jasper")
+                if (this.gameObject.tag == "Gerard")
                 {
-                    SceneManager.LoadScene(9);
-                }
-                if(this.gameObject.tag == "Gerard")
-                {
-                    SceneManager.LoadScene(10);
+                    SceneManager.LoadScene("Gerard");
                 }
                 else
                 {
-                    dialogue.ShowDialogue();
+                    if (currentScene.name != "Jasper")
+                    {
+                        dialogue.ShowDialogue();
+                    }
                 }
-
             }
         }
     }
