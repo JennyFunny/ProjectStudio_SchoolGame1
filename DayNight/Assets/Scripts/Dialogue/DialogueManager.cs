@@ -26,13 +26,13 @@ public class DialogueManager : MonoBehaviour {
 
     private void Awake()
     {
-        thePlayer = FindObjectOfType<PlayerMovement>();
-        dBox = GameObject.FindWithTag("Dialogue Box");
-        dText = GameObject.FindWithTag("Dialogue Text").GetComponent<TextMeshProUGUI>();
-        questionBox = GameObject.FindWithTag("Dialogue Question");
+        @thePlayer = FindObjectOfType<PlayerMovement>();
+        @dBox = GameObject.FindWithTag("Dialogue Box");
+        @dText = GameObject.FindWithTag("Dialogue Text").GetComponent<TextMeshProUGUI>();
+        @questionBox = GameObject.FindWithTag("Dialogue Question");
 
-        dBox.SetActive(false);
-        questionBox.SetActive(false);
+        @dBox.SetActive(false);
+        @questionBox.SetActive(false);
 
     }
 	

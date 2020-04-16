@@ -9,6 +9,7 @@ public class BlockadeManager : MonoBehaviour
     public static bool town1 = false;
     public static bool town2 = false;
     public bool route2 = false;
+    public bool route3 = false;
     public GameObject gm;
     Scene currentscene;
     // Start is called before the first frame update
@@ -34,10 +35,15 @@ public class BlockadeManager : MonoBehaviour
         {
             Destroy(FindObjectOfType<Blockade>().gameObject);
         }
-        if (gm.GetComponent<GameManager>().gerard == true && currentscene.name == "Route2")
+        if (gm.GetComponent<GameManager>().gerard == true && currentscene.name == "Route2")//TODO ONCE LOSING IS POSSIBLE A CHECK IF YOU BEAT THEM
         {
 
           Destroy(GameObject.Find("blockade"));
+        }
+        if(gm.GetComponent<GameManager>().rik == true && currentscene.name == "Route3")
+        {
+
+            Destroy(GameObject.Find("blockade"));
         }
     }
 

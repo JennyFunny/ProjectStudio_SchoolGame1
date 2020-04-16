@@ -44,4 +44,16 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/Routes/Route2.unity
     guid: ed8fb3bf72eb1bd46b947e23f1364fad
+  - enabled: 1
+    path: Assets/Scenes/Routes/Crossroads.unity
+    guid: 7a435cc87be4c904fb767a6bcf0a2dbc
+  - enabled: 1
+    path: Assets/Scenes/newtowns/devtown/DevTown.unity
+    guid: 946f3d0c85acc5c4bb772d58b69c2c57
+  - enabled: 1
+    path: Assets/Scenes/Routes/Route3.unity
+    guid: 61e88476774414441987052bd3b25780
+  - enabled: 1
+    path: Assets/Scenes/Battles/Rik.unity
+    guid: 7238b431cfa0ad14abb649c2109ed080
   m_configObjects: {}

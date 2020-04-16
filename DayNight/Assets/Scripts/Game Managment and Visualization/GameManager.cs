@@ -15,6 +15,7 @@ public class GameManager : MonoBehaviour
     public static bool urenverantwoordingArtistTown = false;
 
     public bool gerard;
+    public bool rik;
 
     private static GameManager Instance;
     public GameObject gm;
@@ -53,6 +54,11 @@ public class GameManager : MonoBehaviour
         {
             gerard = true;//haald de blockade 
            
+        }
+        if(currentScene.name == "Rik")
+        {
+            rik = true;//haald de blockade 
+
         }
         if (urenverantwoordingPalletTown && currentScene.name == "Tiled")
         {

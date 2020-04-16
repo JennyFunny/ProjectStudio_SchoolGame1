@@ -1,5 +1,5 @@
 sceneSetups:
-- path: Assets/Scenes/Towns/ArtistTown.unity
+- path: Assets/Scenes/Towns/Tiled.unity
   isLoaded: 1
   isActive: 1
   isSubScene: 0

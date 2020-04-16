@@ -6,7 +6,7 @@ using UnityEngine.SceneManagement;
 public class NPCBehavior : MonoBehaviour {
 
     DialogueHolder dialogue;
-
+    public GameObject player;
     [SerializeField] private float stepsHorizontal;
     [SerializeField] private float stepsVertical;
 
@@ -49,7 +49,7 @@ public class NPCBehavior : MonoBehaviour {
         dialogue = GetComponent<DialogueHolder>();
 
         waitCounter = waitTime;
-
+        player = GameObject.Find("Player");
         ChooseDirection();
     }
 	
@@ -172,10 +172,19 @@ public class NPCBehavior : MonoBehaviour {
                 if (this.gameObject.tag == "Jasper")
                 {
                     SceneManager.LoadScene("Jasper");
+                    player.GetComponent<PlayerMovement>().startPoint = "afterjasper";
                 }
                 if (this.gameObject.tag == "Gerard")
                 {
+
                     SceneManager.LoadScene("Gerard");
+                    player.GetComponent<PlayerMovement>().startPoint = "RouteA to 1";
+                }
+                if (this.gameObject.tag == "Rik")
+                {
+
+                    SceneManager.LoadScene("Rik");
+                    player.GetComponent<PlayerMovement>().startPoint = "Route3 afterbattle";
                 }
                 else
                 {
